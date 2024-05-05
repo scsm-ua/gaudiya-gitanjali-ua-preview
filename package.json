@@ -1,0 +1,14 @@
+{
+  "name": "gaudiya-gitanjali-ua-preview",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scsm-ua/gaudiya-gitanjali-ua-preview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scsm-ua/gaudiya-gitanjali-ua-preview/issues"
+  },
+  "homepage": "https://github.com/scsm-ua/gaudiya-gitanjali-ua-preview#readme"
+}
