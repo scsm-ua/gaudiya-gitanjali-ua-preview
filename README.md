@@ -1,2 +1,3 @@
-# gaudiya-gitanjali-ua-preview
-Kirtan Guide з автоматичною транслітерацією віршів українською
+# Ґаудія Ґітанджалі
+
+Пісенник [Kirtan Guide](https://github.com/scsm-ua/kirtan-guide-en) з автоматичною транслітерацією віршів українською, без перекладу змісту.
