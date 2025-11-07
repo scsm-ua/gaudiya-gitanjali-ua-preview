@@ -4,7 +4,7 @@
 - [Вандана̄](songs/vande-ham-shri-guroh-shri-yuta-pada-kamalam.md)
 - [Прана̄м Мантра - Шрīла Бгакті Бімал Авадгӯт Маха̄ра̄дж](songs/vande-vaikuntha-vritti-stham.md)
 - [Прана̄м Мантра - Шрīла Бгакті Судгīр Ґосва̄мī Маха̄ра̄дж](songs/goswaminam-sudhirakhyam.md)
-- [Прана̄м Мантра - Сріла Бгакті Нірмал Ачарʼя Махарадж](songs/pujya-sri-guru-varga-vandita.md)
+- [Прана̄м Мантра - Шрīла Бгакті Нірмал А̄ча̄рʼя Маха̄ра̄дж](songs/pujya-sri-guru-varga-vandita.md)
 - [Прана̄м Мантра - Шрīла Бгакті Сундар Ґовінда Дев-Ґосва̄мī Маха̄ра̄дж](songs/gurvabhishta-supurakam-guru-ganair.md)
 - [Прана̄м Мантра - Шрīла Бгакті Ракшак Шрīдгар Дев-Ґосва̄мī Маха̄ра̄дж](songs/devam-divya-tanum-suchanda-vadanam-balarka-chelanchitam.md)
 - [Прана̄м Мантра - Бгаґава̄н Шрīла Бгакті Сіддга̄нта Сарасватī Тха̄кур](songs/shri-siddhanta-sarasvatiti-vidito.md)
