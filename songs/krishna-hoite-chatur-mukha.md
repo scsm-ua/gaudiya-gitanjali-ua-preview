@@ -72,7 +72,7 @@ The great souls Jīva Goswāmī and Raghunāth Dās Goswāmī became very dear t
     маха̄-бга̄ґавата-вара,    шрī-ґауракішора-вара,
         харі-бгаджанете джа̄нра мода
 
-Viśvanātha Chakravartī Ṭhākurawastheśikṣā-guru [instructing spiritual master] of Baladeva Vidyābhūṣaṇa, to whom he taught the precepts of Śrīmad-Bhāgavatam. Jagannāth Dās Bābājī was a very prominent Āchārya after Śrī Baladeva Vidyābhūṣaṇa and was the beloved śikṣā-guru of Śrī Bhakti Vinod Ṭhākur. Bhakti Vinod Ṭhākur’s intimate friend and associate was the eminent mahābhāgavat Śrī Gaura Kiśor Dās Bābājī, whose sole joy was found in hari-bhajana.
+Viśvanātha Chakravartī Ṭhākurawas the śikṣā-guru [instructing spiritual master] of Baladeva Vidyābhūṣaṇa, to whom he taught the precepts of Śrīmad-Bhāgavatam. Jagannāth Dās Bābājī was a very prominent Āchārya after Śrī Baladeva Vidyābhūṣaṇa and was the beloved śikṣā-guru of Śrī Bhakti Vinod Ṭhākur. Bhakti Vinod Ṭhākur’s intimate friend and associate was the eminent mahābhāgavat Śrī Gaura Kiśor Dās Bābājī, whose sole joy was found in hari-bhajana.
 
 #### 9
 
