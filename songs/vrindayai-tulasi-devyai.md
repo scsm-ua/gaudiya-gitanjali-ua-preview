@@ -1,3 +1,8 @@
+---
+page: 21
+first_line: вринда̄яй туласī-девʼяй
+---
+
 # вринда̄яй туласī-девʼяй
 
     вринда̄яй туласī-девʼяй
@@ -18,5 +23,3 @@ Then, let me bow down before all my spiritual masters: the guru who gave me the 
 
 Let the holy lotus feet of Śrī Gurudeva, Śrīman Mahāprabhu, and Śrī Śrī Gāndharvā-Govindasundar, along with Their eternal associates, be victorious over all!
 
-
-> page = 21

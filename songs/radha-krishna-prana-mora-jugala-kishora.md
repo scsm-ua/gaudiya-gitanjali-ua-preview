@@ -1,3 +1,8 @@
+---
+page: 205
+first_line: ра̄дга̄-кришна пра̄на мора джуґала-кішора
+---
+
 # Сакхі-вринде Віґʼяптіх
 
 ## Prayer to the Gopīs
@@ -46,5 +51,3 @@ When, following the orders of Lalitā, Viśākhā and the other *gopīs*, will I
 
 Narottam Dās, the servant of the servant of Śrī Krishna Chaitanya Mahāprabhu, longs for this service to the Divine Couple.
 
-
-> page = 205

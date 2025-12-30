@@ -1,3 +1,8 @@
+---
+page: 127
+first_line: ке джабі ке джабі бга̄і бгава-сіндгу па̄ра
+---
+
 # Ке джабі ке джабі
 
 ### Шрīла Лочан Да̄с Тха̄кур
@@ -30,5 +35,3 @@ The ferry-boat is the Holy Names of the Lord and the spiritual master is the cap
 
 The favourable wind is divine love for Lord Krishna and all the fallen souls have been rescued on this boat. Only Lochan Dās is left behind due to the faults of his own misdeeds.
 
-
-> page = 127

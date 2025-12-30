@@ -1,3 +1,8 @@
+---
+page: 120
+first_line: ґаура̄ паху на̄ бгаджія майну
+---
+
 # Ґаура̄ Паху
 
 ### Шрīла Нароттам Да̄с Тха̄кур
@@ -37,5 +42,3 @@ I have perpetually drunk the horrible poison of material sense gratification and
 
 O why has my heart not experienced any satisfaction and why has Narottam Dās not simply perished?
 
-
-> page = 120

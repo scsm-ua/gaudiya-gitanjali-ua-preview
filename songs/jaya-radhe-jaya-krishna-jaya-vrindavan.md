@@ -1,3 +1,8 @@
+---
+page: 206
+first_line: джая ра̄дге, джая кришна, джая вринда̄ван
+---
+
 # Шрī Враджа-дга̄ма-махіма̄мрита
 
 ### Шрīла Крісгнада̄с Кавіра̄дж Ґосва̄мī
@@ -79,5 +84,3 @@ All glories, all glories to the mellow of conjugal love, which is the most excel
 
 Remembering the lotus feet of Lord Nityānanda’s consort, Śrī Jāhnavā Devī, this very fallen and lowly Krishnadās sings the saṅkīrtan of the Holy Name.
 
-
-> page = 206

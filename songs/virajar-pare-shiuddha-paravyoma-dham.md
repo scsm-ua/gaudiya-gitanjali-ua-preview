@@ -1,3 +1,8 @@
+---
+page: 197
+first_line: віраджа̄р па̄ре шюддга-паравйома-дга̄м
+---
+
 # Шрī Ра̄дга̄штака
 
 ## Song 2
@@ -59,5 +64,3 @@ The creeper never desires to leave the company of the tamāl tree; the creeper p
 
 Other than the meeting of these two, Bhakti Vinod desires but nothing else.
 
-
-> page = 197

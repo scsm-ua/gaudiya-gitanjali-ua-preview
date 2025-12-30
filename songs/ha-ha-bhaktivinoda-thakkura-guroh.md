@@ -1,3 +1,8 @@
+---
+page: 254
+first_line: ха̄ ха̄ бгактівінода-тхаккура! ґурох!
+---
+
 # Шрīмад Бгакті Вінод-віраха Дашякам
 
 ## Prayer in Separation of Śrīla Bhakti Vinod Ṭhākur
@@ -20,7 +25,7 @@ Alas, alas! Oh Bhakti Vinod Ṭhākur, Oh Supreme Guru, for twenty-two years thi
 #### 2
 
     дīно ’хам чіра-душкритір на хі бгават-
-        па̄да̄бджа-дгӯлі-кана̄- 
+        па̄да̄бджа-дгӯлі-кана̄-
     сна̄на̄нанда-нідгім прапанна-шюбгадам
         лабдгум самартхо ’бгавам
     кінтв ауда̄рʼя-ґуна̄т-тава̄ті-яшясах
@@ -136,5 +141,3 @@ Where am I, so lowly and fallen, and where are you, the great soul who delivers 
 
 Translator’s  Note: The preceding prayer to Śrīla Bhakti Vinod Ṭhākur (1838-1914), the pioneer of pure devotion in the recent age, was composed within the lifetime of the author’s Guru, Śrīla Bhakti Siddhānta Saraswatī Ṭhākur Goswāmī Prabhupād. Upon reading the original Sanskrit verse, Śrīla Prabhupād commented, “Now I am confident that we have one man who is qualified to uphold the standard of our Sampradāya (Divine Succession).”
 
-
-> page = 254

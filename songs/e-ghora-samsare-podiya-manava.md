@@ -1,3 +1,8 @@
+---
+page: 148
+first_line: е гора самса̄ре, подія ма̄нава
+---
+
 # Е гора самсаре
 
 ### Ка̄ліда̄с
@@ -29,5 +34,3 @@ The heart burns in the fire of sense gratification and the fire burns more and m
 
 Kālidās says, “Anyone who has taken shelter of the lotus feet of Lord Chaitanya and Lord Nityānanda is my shelter in life and death.”
 
-
-> page = 148

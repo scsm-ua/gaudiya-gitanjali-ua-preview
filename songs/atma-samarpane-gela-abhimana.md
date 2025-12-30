@@ -1,3 +1,8 @@
+---
+page: 166
+first_line: а̄тма-самарпане ґела̄ абгіма̄на
+---
+
 # А̄тма-самарпане
 
 ### Шрīла Бгактівінод Тха̄кур
@@ -72,5 +77,3 @@ When the four-headed Brahmā abducts me along with Your cowherd boyfriends and c
 
 Bhakti Vinod is now the property of Gokul, Your holy abode. Oh Keśava! Kindly protect him with gentle loving care.
 
-
-> page = 166

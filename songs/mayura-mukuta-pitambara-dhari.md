@@ -1,3 +1,8 @@
+---
+page: 203
+first_line: маюра-мукута пīта̄мбара-дга̄рī
+---
+
 # Маюра мукута
 
 ### Шрīла Бгактівінод Тха̄кур
@@ -30,5 +35,3 @@ Oh Krishna holder of the flute, Muralī and lifter of Govardhan Hill! All glorie
 
 Oh Krishna holder of the flute, Muralī and lifter of Govardhan Hill! All glories to you Krishna, dearmost lover of all the cowherd girls of Vṛndāvan and player of the flute Vaṁśī.
 
-
-> page = 203

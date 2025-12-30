@@ -1,3 +1,8 @@
+---
+page: 202
+first_line: хе дева бгавантам ванде
+---
+
 # Хе дева бгавантам ванде
 
 ### Шрīла Рӯпа Ґосва̄мī
@@ -37,5 +42,3 @@ Oh Mādhava, although I have not even a sesame seed of devotion for You, Your su
 
 Oh eternal Lord, may the bumblebee of my mind, finding there the most wonderful sweetness, eternally stay in the honey of Your lotus feet, which rebuke the sweetest nectar.
 
-
-> page = 202

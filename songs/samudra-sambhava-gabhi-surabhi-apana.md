@@ -1,7 +1,11 @@
+---
+page: 277
+first_line: самудра-самбгава̄ ґа̄бгī сурабгī а̄пана
+---
+
 # Шрī Ґовінда Кунда Ма̄ха̄тмʼя
 
 ## The Glories of Śrī Govinda Kuṇḍa
-
 ## Śrī Girirāj-khaṇḍam – Śrī Garga-saṁhitā
 
     атха ґовардгане рамʼє сурабгі ґаух самудраджа̄
@@ -51,5 +55,3 @@ Sometimes, by great fortune, someone will get to taste the water of Govinda Ku�
 
 Anyone who bathes in Śrī Govinda Kuṇḍa, desiring to serve Krishna, attains divine service of Śrī Śrī Rādhā-Krishna in Gupta Govardhan (hidden Govardhan).
 
-
-> page = 277

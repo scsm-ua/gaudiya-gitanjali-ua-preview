@@ -1,8 +1,13 @@
+---
+page: 191
+first_line: сакхі ґо кемоте дгорібо пара̄н
+---
+
 # Шрī Шікша̄штакам
 
-### Шрīла Бгактівінод Тха̄кур
-
 ## Song 7c
+
+### Шрīла Бгактівінод Тха̄кур
 
 #### 1
 
@@ -31,4 +36,3 @@ Bhakti Vinod has become very restless and again takes shelter of the holy name, 
 
 Footnote to verse 1: *Śrīla Śrīdhar Mahārāja advised not to sing ‘sakhi go’ but ‘bandhu he’ instead.*
 
-> page = 191

@@ -1,8 +1,13 @@
+---
+page: 185
+first_line: шрī-кришна-кīртане джоді ма̄наса тоха̄ра
+---
+
 # Шрī Шікша̄штакам
 
-### Шрīла Бгактівінод Тха̄кур
-
 ## Song 3
+
+### Шрīла Бгактівінод Тха̄кур
 
 The third verse of the Śrī Śikṣāṣṭakam is as follows:
 
@@ -69,5 +74,3 @@ Humility, mercy, consideration of others, and giving up position are the four qu
 
 Bhakti Vinod, crying at the Lord’s holy feet says, “O my Lord, when will You bestow upon me the qualifications for Krishna-*kīrtan*?”
 
-
-> page = 185

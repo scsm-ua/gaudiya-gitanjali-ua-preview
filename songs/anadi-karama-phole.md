@@ -1,8 +1,13 @@
+---
+page: 187
+first_line: ана̄ді карама-пхоле
+---
+
 # Шрī Шікша̄штакам
 
-### Шрīла Бгактівінод Тха̄кур
-
 ## Song 5
+
+### Шрīла Бгактівінод Тха̄кур
 
 The fifth verse of the Śrī Śikṣāṣṭakam is as follows:
 
@@ -49,5 +54,3 @@ The two highway robbers named intellectual knowledge and fruitive activity have 
 
 I am Your eternal servant, Oh merciful Lord. But, having forgotten this since time immemorial, I have become bound up in this network of illusion. Take this fallen servant of Yours, give him a place in the dust of Your lotus feet; give your shelter to this humble Bhakti Vinod.
 
-
-> page = 187

@@ -1,3 +1,8 @@
+---
+page: 155
+first_line: кі джа̄ні кі бале, тома̄ра дга̄мете
+---
+
 # Ґоптритве Варана
 
 ### Шрīла Бгактівінод Тха̄кур
@@ -56,5 +61,3 @@ Everything is Yours. I am merely a servant, certain that You will deliver me. I 
 
 Weeping, Bhakti Vinod takes shelter at Your feet. Forgive his offences, afford him a taste for the Holy Name, and kindly maintain him.
 
-
-> page = 155

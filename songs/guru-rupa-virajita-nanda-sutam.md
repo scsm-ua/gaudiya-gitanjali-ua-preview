@@ -1,3 +1,8 @@
+---
+page: 283
+first_line: ґуру-рӯпа-віра̄джіта-нанда-сутам
+---
+
 # Шрī Ґаурахарі-Кусума-Става̄штакам
 
 ## Eight Flower Offerings of Praise to Lord Gaurhari
@@ -76,5 +81,3 @@ He is the resplendent golden Personality gloried by the Scriptures and saints; H
 
 He performed greatly maddened dancing and chanting amidst the wonderful sounds of the *karatāla* and *mṛdaṅga* as He was shown great affection and honour by the fallen souls. He is the grand abode of divine peace of relief for one and all. Serve that Lord, Gaurahari, worship Gaurahari.
 
-
-> page = 283

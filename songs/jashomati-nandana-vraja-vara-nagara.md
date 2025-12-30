@@ -1,3 +1,8 @@
+---
+page: 60
+first_line: джашоматī-нандана враджа-вара на̄ґара
+---
+
 # Шрī На̄м-кīртан
 
 ### Шрīла Бгактівінод Тха̄кур
@@ -37,5 +42,3 @@ Krishna is the guardian of all who live in Vṛndāvan, and the destroyer of dem
 
 Wandering on the banks of the Yamunā River, Krishna stole the garments of the *gopīs* while they were bathing. He enjoys the mellows of the rāsa dance. He is the most merciful, beloved lover of Śrīmatī Rādhārāṇī. He is the great dancer of Vṛndāvan, and the supreme shelter of Śrīla Bhakti Vinod Ṭhākur.
 
-
-> page = 60

@@ -1,8 +1,13 @@
+---
+page: 184
+first_line: пīта-варана калі-па̄вана ґора̄
+---
+
 # Шрī Шікша̄штакам
 
-### Шрīла Бгактівінод Тха̄кур
-
 ## Song 1
+
+### Шрīла Бгактівінод Тха̄кур
 
 The first verse of the Śrī Śikṣāṣṭakam is as follows:
 
@@ -77,5 +82,3 @@ Lord Gaurāṅga, whose complexion is golden and who is the deliverer of the fal
 
 “All glories to the chanting of the Holy Name of Krishna! It bathes the soul of Bhakti Vinod. This chanting is a storehouse of love of Godhead.”
 
-
-> page = 184

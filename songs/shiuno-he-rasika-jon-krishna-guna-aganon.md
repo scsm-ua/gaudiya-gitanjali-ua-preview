@@ -1,3 +1,8 @@
+---
+page: 209
+first_line: шюно, хе расіка джон кришна ґуна аґанон
+---
+
 # Ґуна-Кīртан
 
 ### Шрīла Бгактівінод Тха̄кур
@@ -47,5 +52,3 @@ Krishna eventually bestows the jewel of independence unto those persons who are 
 
 Krishna is the dearmost friend and husband of those who are always attached to drinking the fountain of ecstatic tears of love. Thus, the goal of this most fallen and lowly Bhakti Vinod is to be with all such residents of Vraja within the abode of supreme auspiciousness.
 
-
-> page = 209

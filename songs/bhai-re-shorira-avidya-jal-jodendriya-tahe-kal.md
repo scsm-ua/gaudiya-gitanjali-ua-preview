@@ -25,4 +25,3 @@ Oh brothers! Lord Krishna is very merciful—just to control the tongue He has g
     (даял ніта̄і чайтанья боле, преме бгоре да̄каре)
         (ніта̄і ґаура харібол)
 
-

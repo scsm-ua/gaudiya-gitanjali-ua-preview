@@ -1,3 +1,8 @@
+---
+page: 161
+first_line: а̄ма̄ра джīвана, сада̄ па̄пе рата
+---
+
 # А̄ма̄ра джīвана
 
 ### Шрīла Бгактівінод Тха̄кур
@@ -56,5 +61,3 @@ A vile, wicked man such as this, rejected by saintly persons, is a constant offe
 
 Now in old age, deprived of all means of relief, thus humbled and destitute, this Bhakti Vinod submits his tale of grief at the feet of the Supreme Lord.
 
-
-> page = 161

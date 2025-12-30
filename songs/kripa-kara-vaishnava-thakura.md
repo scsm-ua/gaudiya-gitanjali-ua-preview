@@ -1,3 +1,8 @@
+---
+page: 137
+first_line: крипа кара’ вайшнава тха̄кура
+---
+
 # Пра̄ртхана̄ Лаласа̄маї
 
 ### Шрīла Бгактівінод Тха̄кур
@@ -37,7 +42,6 @@ Renouncing the false conception that I am a ‘guru’, I will understand myself
 
 By giving others the remnants of my food, I shall consider myself superior and shall be burdened with the weight of false pride. Therefore, always remaining your surrendered disciple, I shall not accept worship from anyone else.
 
-
 #### 5
 
     ама̄нī ма̄нада,    хоіле кīртане
@@ -47,5 +51,3 @@ By giving others the remnants of my food, I shall consider myself superior and s
 
 If you will bestow upon me the capacity to chant the Holy Name, I will then give all honour to others without expecting any respect for myself. Thus I will sincerely weep in ecstasy while rolling on the ground at your lotus feet.
 
-
-> page = 137

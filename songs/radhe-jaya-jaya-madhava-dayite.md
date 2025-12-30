@@ -1,3 +1,8 @@
+---
+page: 200
+first_line: ра̄дге джая джая ма̄дгава-даїте
+---
+
 # Шрī Ра̄дгіка̄-става
 
 ### Шрīла Рӯпа Ґосва̄мī
@@ -30,5 +35,3 @@ O new moon who has arisen from the ocean of King Vṛṣabhānu! O friend of Lal
 
 O You who are filled with compassion! O You whose divine characteristics are described by the great sages Sanaka and Sanātan! O Rādhā, please be merciful to me!
 
-
-> page = 200

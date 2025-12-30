@@ -1,3 +1,8 @@
+---
+page: 249
+first_line: наґара бграмія а̄ма̄ра ґаура ело горе
+---
+
 # Атер парікрама̄
 
     наґара бграмія а̄ма̄ра ґаура ело горе
@@ -7,5 +12,3 @@
 
 “After *parikramā* of the town, Gaurāṅga returns to His house, and Nitāi also comes to the house. Dusting off His body, Śachī Mātā takes Gaurāṅga upon her lap. Out of great spiritual joy all the devotees are chanting ‘Hari Hari Bol!’”
 
-
-> page = 249

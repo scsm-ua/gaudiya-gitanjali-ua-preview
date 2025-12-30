@@ -2,7 +2,7 @@ const path = require('path');
 const { render } = require('songbook-md-json-parser');
 
 // Load the first lines dictionary
-const firstLines = require('../build/index.json');
+const firstLines = require('../json/index.json');
 
 render({
     prepareJson: (json, filename) => {

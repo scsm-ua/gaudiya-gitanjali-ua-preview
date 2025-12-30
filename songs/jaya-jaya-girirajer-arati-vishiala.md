@@ -1,3 +1,8 @@
+---
+page: 32
+first_line: джая джая ґіріра̄джер а̄раті вішяла
+---
+
 # Шрī Ґовінда Кунда
 # Ґупта-Ґовардган А̄раті
 
@@ -73,5 +78,3 @@ By Your inconceivable glories and magnanimity, You have manifested Kuliyā (wher
 
 You are eternally manifested both as the worshipable Lord and as the servitor Lord. This fallen servant sees Your ārati with great joy.
 
-
-> page = 32

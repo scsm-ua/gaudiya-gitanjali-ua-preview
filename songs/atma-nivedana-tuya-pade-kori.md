@@ -1,3 +1,8 @@
+---
+page: 160
+first_line: а̄тма-ніведана, туя паде корі
+---
+
 # А̄тма-ніведана
 
 ### Шрīла Бгактівінод Тха̄кур
@@ -56,5 +61,3 @@ I have completely forgotten all past history by feeling great joy in my mind. I 
 
 Bhakti Vinod, diving into the ocean of bliss, devotes all his efforts for Your service and dwells in Your house according to Your wishes.
 
-
-> page = 160

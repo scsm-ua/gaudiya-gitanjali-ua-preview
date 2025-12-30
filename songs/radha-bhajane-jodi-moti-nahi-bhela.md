@@ -1,8 +1,13 @@
+---
+page: 198
+first_line: ра̄дга̄-бгаджане джоді моті на̄хі бгела̄
+---
+
 # Шрī Ра̄дга̄штака
 
-### Шрīла Бгактівінод Тха̄кур
-
 ## Song 8
+
+### Шрīла Бгактівінод Тха̄кур
 
 #### 1
 
@@ -60,5 +65,3 @@ Umā, Ramā, Satyā, Śachī, Chandrāvālī, and Rukminī are all personal expa
 
 Bhakti Vinod, whose only wealth is the service of Śrī Rādhā, humbly prays to be a serving maid at Her lotus feet.
 
-
-> page = 198

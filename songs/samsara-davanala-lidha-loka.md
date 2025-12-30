@@ -1,3 +1,8 @@
+---
+page: 48
+first_line: самса̄ра-да̄ва̄нала-лīдга-лока
+---
+
 # Шрī Шрī Ґурва̄штака
 
 ### Шрīла Вішвана̄тх Чакравартī Тха̄кур
@@ -83,5 +88,3 @@ I worship the lotus feet of the Divine Master, ever singing his glories and medi
 
 One who, during the Brāhma-muhūrta (nintysix minutes before sunrise) with meticulous regularity wholeheartedly sings these eight prayers to the Divine Master, attains, upon leaving the body in his spiritual perfection, the qualification to engage in the direct service of the Lord of Vṛndāvan.
 
-
-> page = 48

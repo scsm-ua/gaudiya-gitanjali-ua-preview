@@ -1,3 +1,8 @@
+---
+page: 285
+first_line: маха̄-бгая шянкула е бгава таранґінī
+---
+
 # Ма̄я Дуратьяя
 
 ### Шрīла Бгакті Сундар Ґовінда Дев-Ґосва̄мī Маха̄ра̄дж
@@ -45,6 +50,3 @@ O my mind, your attention is like the wind. Your real wealth will be found at th
 
 Offer yourself to the lotus feet of the Lord who is the owner and controller of Māyā, taking shelter there in all humility. Do not even dream that without His lotus feet you can properly adjust with the environment or practice spiritual life (*dhārma*).
 
-
-
-> page = 285

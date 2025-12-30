@@ -1,3 +1,8 @@
+---
+page: 140
+first_line: на̄рада муні, ба̄джа̄я вīна̄
+---
+
 # Шрī На̄ма̄штакам 8
 
 ### Шрīла Бгактівінод Тха̄кур
@@ -56,5 +61,3 @@ In supreme happiness the thousand-faced Ananta Śeṣa sings and calls out, “H
 
 The Holy Name of Śrī Krishna has fulfilled all my desires by thus manifesting on everyone’s tongue. Bhakti Vinod, the humble servant of the Lord, therefore prays at the feet of Śrī Rūpa Goswāmī that the chanting of Harinām may always continue in this way.
 
-
-> page = 140

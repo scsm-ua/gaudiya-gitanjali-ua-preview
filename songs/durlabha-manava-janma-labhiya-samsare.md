@@ -1,3 +1,8 @@
+---
+page: 175
+first_line: дурлабга ма̄нава-джанма лабгія самса̄ре
+---
+
 # Дурлабга ма̄нава-джанма
 
 ### Шрīла Бгактівінод Тха̄кур
@@ -93,5 +98,3 @@ Just see, this is the ultimate destination of this material body. And the most a
 
 Therefore I ask of anyone who has any sharp intelligence: please give up all of these temporary illusions presented by Māyā, and kindly search after the means to get pure devotion to Lord Krishna, for this is the only really tangible eternal truth.
 
-
-> page = 175

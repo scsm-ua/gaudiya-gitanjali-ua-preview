@@ -1,3 +1,8 @@
+---
+page: 135
+first_line: дже а̄ніло према-дгана каруна̄ прачура
+---
+
 # Віраха-ґīті
 
 ### Шрīла Нароттам Да̄с Тха̄кур
@@ -37,5 +42,3 @@ To reach such a perfect personality as Lord Chaitanya, I can only break my head 
 
 They have all gone off together in their own Pastimes. Narottam Dās Ṭhākur says: “Unable to obtain their association, I must simply weep.”
 
-
-> page = 135

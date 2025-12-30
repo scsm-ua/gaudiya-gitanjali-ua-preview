@@ -1,3 +1,8 @@
+---
+page: 13
+first_line: ґурва̄бгīшта-супӯракам ґуру-ґанайр
+---
+
 # Шрīла Бгакті Сундар Ґовінда Дев-Ґосва̄мī Маха̄ра̄дж
 
     ґурва̄бгīшта-супӯракам ґуру-ґанайр
@@ -20,5 +25,3 @@ Devotionally endowed with transcendent sentiment.\
 I worship him, the world-wide guru from high above,\
 The empowered bestower of the seed of Divine Love.”
 
-
-> page = 13

@@ -12,7 +12,7 @@
   },
   "homepage": "https://github.com/scsm-ua/gaudiya-gitanjali-ua-preview#readme",
   "scripts": {
-    "build": "songbook-md-json-parser",
+    "build": "songbook-build",
     "prepare": "npm run build"
   },
   "dependencies": {

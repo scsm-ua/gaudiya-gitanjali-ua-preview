@@ -1,3 +1,8 @@
+---
+page: 165
+first_line: харі хе даяла мора джая ра̄дга̄-на̄тха
+---
+
 # Дайнья О Прапатті
 
 #### 1
@@ -35,5 +40,3 @@ You bring about auspiciousness for the world, and You are the master of all the 
 
 I have considered that in this world there is no one except You who can deliver this fallen servant.
 
-
-> page = 165

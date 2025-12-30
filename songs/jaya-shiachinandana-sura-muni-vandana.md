@@ -1,3 +1,8 @@
+---
+page: 61
+first_line: джая шячīнандана сура-муні-вандана
+---
+
 # Шрī Шячīнандана-вандана̄
 
 ### Шрīла Бгакті Ракшак Шрīдгар Дев-Ґосва̄мī Маха̄ра̄дж
@@ -38,5 +43,3 @@ All glories to Sītā Ṭhākurāṇī and Śrī Advaita Āchārya, all glories 
 
 All glories to Murāri Gupta, and all glories to Mukunda Datta. All glories to all the other eternal associates of Śrī Chaitanya Mahāprabhu. By singing the glories of Śrīla Prabhupād and all those great souls who are eternal associates of Śrī Chaitanya Mahāprabhu, even the lowest of men can obtain the highest treasure of love.
 
-
-> page = 61

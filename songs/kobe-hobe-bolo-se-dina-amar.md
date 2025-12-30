@@ -1,3 +1,8 @@
+---
+page: 167
+first_line: кобе хо’бе боло се-діна а̄ма̄р
+---
+
 # Кобе хо’бе боло
 
 ### Шрīла Бгактівінод Тха̄кур
@@ -73,5 +78,3 @@ I shall buy and plunder the mellow of the Name Hari, and becoming thoroughly int
 
 When will there be an awakening of compassion for all fallen souls, and when will this Bhakti Vinod, forgetting his own happines, with a meek heart set out to propagate by humble entreaty the sacred order of Śrī Chaitanya Mahāprabhu?
 
-
-> page = 167

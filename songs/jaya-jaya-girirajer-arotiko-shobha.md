@@ -1,3 +1,8 @@
+---
+page: 34
+first_line: джая джая ґіріра̄джер а̄ротіко шобга̄
+---
+
 # Шрī Шрī Ґіріра̄дж-
 # Ґовардган А̄раті
 
@@ -80,5 +85,3 @@ The beauty of the ārati of Śrī Girirāj Jīu which is rare and precious is be
 
 Śrī Śrī Girirāj Jīu is eternally manifested as both the worshipable Lord and the servitor Lord. This fallen servant sees the *ārati* of Śrī Girirāj Jīu with great ecstasy.
 
-
-> page = 34

@@ -1,3 +1,7 @@
+---
+first_line: шрīмач-чайтанья-са̄расвата-матхавара-удґīта-кīртір
+---
+
 # Тхе Ґлорй о тхе Шрī Чайтанья Са̄расват Матх
 
 ### Шрīла Б.Р. Шрīдгар Дев-Ґосва̄мī Маха̄ра̄дж вгіле
@@ -56,3 +60,4 @@ and sings wholeheartedly to the world the ever-expanding\
 bearing that banner of all transcendental benedictions,\
 &nbsp;&nbsp;&nbsp;&nbsp;Śrī Chaitanya Sāraswat Maṭh ever shines resplendent\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in all its divine magnificence.
+

@@ -1,3 +1,8 @@
+---
+page: 134
+first_line: тха̄кура-вайшнава-пада, аванīра
+---
+
 # Тха̄кура-вайшнава-пада
 
 ### Шрīла Нароттам Да̄с Тха̄кур
@@ -38,5 +43,3 @@ The purifying power of the waters of the various places of pilgrimage is describ
 
 Moment by moment my mind finds constant pleasure in the association of the Vaiṣṇavas. I always seek the company of the devotees of Lord Krishna. Poor-hearted Narottam Dās cries, “I cannot maintain my composure any longer. Why have I fallen into such a low condition of life that I cannot get the association of the Vaiṣṇavas?”
 
-
-> page = 134

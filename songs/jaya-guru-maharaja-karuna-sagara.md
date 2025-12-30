@@ -1,3 +1,8 @@
+---
+page: 36
+first_line: джая ґуру маха̄ра̄джа каруна̄-са̄ґара
+---
+
 # Шрī Шрī Ніта̄і-Чайтанья-А̄раті
 
 ### Шрīла Бгакті Сундар Ґовінда Дев-Ґосва̄мī Маха̄ра̄дж
@@ -89,5 +94,3 @@ Sārvabhauma Bhaṭṭāchārya, Gopīnāth Āchārya and the followers in the *
 
 Inconceivably Śrī Śrī Nitāi-Chaitanya have manifested and through the mercy of Śrī Gurudeva this fallen soul sees Their ārati and joins within the saṅkīrtan.
 
-
-> page = 36

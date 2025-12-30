@@ -1,3 +1,9 @@
+---
+verse parentheses: non bold
+page: 51
+first_line: бгаджа ре бгаджа ре а̄ма̄р мана аті манда
+---
+
 # Бгаджан-ґīті
 
 ### Шрīла Бгактівінод Тха̄кур
@@ -49,6 +55,3 @@ You should remember the Goswāmīs of Vṛndāvan: Śrī Rūpa Goswāmī, Sanāt
 
 You should remember Śrīla Kavi Karṇapura and all his family members, who are all sincere servants of Lord Śrī Chaitanya Mahāprabhu. You should also remember the father of Kavi Karṇapura, Śivānanda Sena. Always remember, always remember Śrī Karṇapura and his family. You should remember all those Vaiṣṇavas who strictly follow the path of Śrī Rūpa Goswāmī and who are absorbed in the ecstasy of *bhajan*. If you actually want residence in the land of Vraja, then you must remember all of the Vaiṣṇavas, who are followers of Śrīla Rūpa Goswāmī.
 
-> verse parentheses = non bold
-
-> page = 51

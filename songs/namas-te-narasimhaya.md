@@ -1,3 +1,8 @@
+---
+page: 227
+first_line: намас те нарасімга̄я
+---
+
 # Шрī Нрисімга Прана̄м
 
     намас те нарасімга̄я
@@ -24,5 +29,3 @@ Lord Nṛsiṁha is here and also there. Wherever I go Lord Nṛsiṁha is there
 
 Oh Keśava! Oh Lord of the universe! Oh Lord Hari, who have assumed the form of half-man, half-lion! All glories to You! Just as one can easily crush a wasp between one’s fingernails, so in the same way the body of the wasplike demon Hiraṇyakaśipu has been ripped apart by the wonderful pointed nails on Your beautiful lotus hands.
 
-
-> page = 227
