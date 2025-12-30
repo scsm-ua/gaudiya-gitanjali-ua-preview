@@ -10,5 +10,5 @@ To build markdown songs to JSON format:
 npm run build
 ```
 
-This will process all `.md` files from the `songs/` directory and generate `.json` files in the `build/songs/` directory.
+This will process all `.md` files from the `songs/` directory and generate `.json` files in the `json/songs/` directory.
 
