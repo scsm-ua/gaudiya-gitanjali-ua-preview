@@ -1,4 +1,9 @@
 {
+  "meta": {
+    "verse parentheses": "non bold",
+    "page": 74,
+    "first_line": "шрī ґуру чарана-падма, кевала-бгакаті"
+  },
   "title": [
     "Шрī Ґуру-вайшнава",
     "Ма̄ха̄тмʼя-ґīті"
@@ -70,9 +75,5 @@
         "I have surrendered, I have surrendered unto your fearless lotus feet. Please give your mercy. Oh Śrī Gurudeva, saviour of the fallen, please give me your mercy. You are the saviour of the lowly fallen souls. All glories to you Śrī Gurudeva."
       ]
     }
-  ],
-  "attributes": {
-    "verse parentheses": "non bold",
-    "page": "74"
-  }
+  ]
 }

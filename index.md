@@ -10,6 +10,7 @@
 - [бгаябганьджана джаяшямсана](songs/bhayabhanjana-jayashiamsana.md)
 - [бгулія тома̄ре, самса̄ре а̄сія](songs/bhuliya-tomare-samsare-asiya.md)
 - [бга̄ґʼядгīшя! твадīйо вімала-сукхамаях](songs/bhagyadhishia-tvadiyo-vimala-sukhamayah.md)
+- [бга̄і-ре! шорīра авідья-джа̄л](songs/bhai-re-shorira-avidya-jal-jodendriya-tahe-kal.md)
 - [бондгу-ґон! шюнохо вачана мора](songs/bondhu-gon-shiunoho-vachana-mora.md)
 - [чаудда-шята са̄та-шяке ма̄са дже пха̄лґун](songs/chaudda-shiata-sata-shiake-masa-je-phalgun.md)
 - [‘даял ніта̄і чайтанья’ бо’ле на̄ч ре](songs/dayal-nitai-chaitanya-bole-nach-re.md)

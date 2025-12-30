@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 240,
+    "first_line": "шюддга-бгаката-чарана-рену"
+  },
   "title": [
     "Шюддга-бгаката"
   ],
@@ -102,8 +106,5 @@
         "Whatever Bhakti Vinod obtains that is conducive for the service of Śrī Krishna, he accepts every day with the greatest of joy."
       ]
     }
-  ],
-  "attributes": {
-    "page": "240"
-  }
+  ]
 }

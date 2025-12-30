@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 50,
+    "first_line": "шрī-кришна-чайтанья прабгу джīве дая корі’"
+  },
   "title": [
     "Благодатне звернення",
     "до Шярана̄ґаті"
@@ -96,8 +100,5 @@
         "&nbsp;&nbsp;&nbsp;&nbsp;teach me pure devotion.’"
       ]
     }
-  ],
-  "attributes": {
-    "page": "50"
-  }
+  ]
 }

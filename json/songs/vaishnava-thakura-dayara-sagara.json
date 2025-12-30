@@ -1,4 +1,9 @@
 {
+  "meta": {
+    "verse parentheses": "non bold",
+    "page": 76,
+    "first_line": "(охе) вайшнава тха̄кура, даяра са̄ґара"
+  },
   "title": [
     "Шрī Вайшнава-махіма̄-ґīті"
   ],
@@ -65,9 +70,5 @@
         "The six kinds of saintly association are offering gifts in charity, accepting charitable gifts, revealing one’s mind in confidence, inquiring confidentially, accepting prasādam and offering prasādam."
       ]
     }
-  ],
-  "attributes": {
-    "verse parentheses": "non bold",
-    "page": "76"
-  }
+  ]
 }
