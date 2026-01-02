@@ -1,3 +1,8 @@
+---
+page: 274
+first_line: шрī-сварӯпа-ра̄я-рӯпа джīва-бга̄ва
+---
+
 # Прана̄м Мантра
 
 ## to Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
@@ -25,5 +30,3 @@ I offer my humble obeisances unto the Guru of the entire world, Oṁ Viṣṇup�
 
 Oh my dear mind! Please engage yourself eternally in the worship of Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj, who has manifested his form as Śrī Gurudeva; who is the giver of all perfection; whose charming golden form is beautifully reposed with sweetness and tranquility, dressed in radiant saffron robes, he is rich with perfect devotional conceptions, highly learned and pre-eminent among the followers of Śrīla Saraswatī Ṭhākur.
 
-
-> page = 274

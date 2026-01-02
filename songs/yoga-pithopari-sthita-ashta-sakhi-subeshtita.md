@@ -1,8 +1,13 @@
+---
+page: 192
+first_line: йоґа-пīтхопарі-стхіта, ашта-сакхī-субештіта
+---
+
 # Шрī Шікша̄штакам
 
-### Шрīла Бгактівінод Тха̄кур
-
 ## Song 8b
+
+### Шрīла Бгактівінод Тха̄кур
 
 #### 1
 
@@ -63,5 +68,3 @@ Bhakti Vinod knows nothing else. Falling at the feet of the sakhī, Bhakti Vinod
 
 Footnote to Song 8b: *Śrīla Śrīdhar Mahārāja advised not to sing this song because it’s “too high.”*
 
-
-> page = 192

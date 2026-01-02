@@ -1,8 +1,13 @@
+---
+page: 185
+first_line: туху дая-са̄ґара та̄раїте пра̄нī
+---
+
 # Шрī Шікша̄штакам
 
-### Шрīла Бгактівінод Тха̄кур
-
 ## Song 2
+
+### Шрīла Бгактівінод Тха̄кур
 
 The second verse of the Śrī Śikṣāṣṭakam is as follows:
 
@@ -48,5 +53,3 @@ This is Your mercy, O Lord. You are supremely kind. But, O Lord, I am most wicke
 
 I have never known any attraction for the Holy Names. And so, the heart of Bhakti Vinod is filled with sadness.
 
-
-> page = 185

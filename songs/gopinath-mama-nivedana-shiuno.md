@@ -1,8 +1,13 @@
+---
+page: 169
+first_line: ґопīна̄тх, мама ніведана шюно
+---
+
 # Ніведана
 
-### Шрīла Бгактівінод Тха̄кур
-
 ## Part 1
+
+### Шрīла Бгактівінод Тха̄кур
 
 #### 1
 
@@ -68,5 +73,3 @@ Oh Gopīnāth, You are the ocean of mercy. Having come into this phenomenal worl
 
 Oh Gopīnāth, I am so sinful that although all the demons attained Your lotus feet, Bhakti Vinod has remained in worldly existence.
 
-
-> page = 169

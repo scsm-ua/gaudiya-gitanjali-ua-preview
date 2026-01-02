@@ -1,3 +1,8 @@
+---
+page: 111
+first_line: ніта̄і-пада-камала, котī-чандра-сушітала
+---
+
 # Манах-Шікша̄
 
 ### Шрīла Нароттам Да̄с Тха̄кур
@@ -58,5 +63,3 @@ Ever aspire for the shelter of His feet;\
 Narottam is very sad — O Nitāi make me happy —\
 Please keep me at Your lovely lotus feet!
 
-
-> page = 111

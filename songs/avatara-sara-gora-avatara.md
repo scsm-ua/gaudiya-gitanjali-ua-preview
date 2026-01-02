@@ -1,3 +1,8 @@
+---
+page: 121
+first_line: авата̄ра са̄ра ґора̄ авата̄ра
+---
+
 # Авата̄ра Са̄ра
 
 ### Шрīла Лочан Да̄с Тха̄кур
@@ -47,5 +52,3 @@ Admitting defeat, wasted and worn out, I await the snake of death. Declaring it 
 
 Worshipping my family and my material life, I forgot Lord Gaurāṅga and didn’t listen to the instructions of the saints. Now in my final days, I realise I have died twice, for not only am I leaving this mortal body, but I am also dead while living, having wasted my life in material indulgence.
 
-
-> page = 121

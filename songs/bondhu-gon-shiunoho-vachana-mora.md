@@ -1,8 +1,13 @@
+---
+page: 191
+first_line: бондгу-ґон! шюнохо вачана мора
+---
+
 # Шрī Шікша̄штакам
 
-### Шрīла Бгактівінод Тха̄кур
-
 ## Song 8a
+
+### Шрīла Бгактівінод Тха̄кур
 
 The eighth verse of the Śrī Śikṣāṣṭakam is as follows:
 
@@ -62,5 +67,3 @@ But even though He pains my soul in this way, He is still the Lord of my life. W
 
 In this way, Bhakti Vinod, in both union and separation, knows that Krishna is the only Lord of his soul. Krishna’s happiness is my happiness. He is the Lord of my life; there is no other Lord for me than Him.
 
-
-> page = 191

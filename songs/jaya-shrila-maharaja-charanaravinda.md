@@ -1,3 +1,8 @@
+---
+page: 214
+first_line: джая шрīла маха̄ра̄джа чарана̄равінда
+---
+
 # А̄ча̄рʼя-чарана-вандана
 
 ### Шрīпа̄д Бгакті А̄нанда Са̄ґар Маха̄ра̄дж
@@ -114,5 +119,3 @@ Lost, deluded souls dishonour thee, alas! and perish.
 By thy Grace shall we now serve our Lord and Golden Master,\
 This fallen soul exults in thy Sweet Chanting Dance forever
 
-
-> page = 214

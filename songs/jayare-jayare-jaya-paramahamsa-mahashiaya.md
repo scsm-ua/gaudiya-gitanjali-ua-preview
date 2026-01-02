@@ -1,3 +1,8 @@
+---
+page: 221
+first_line: джаяре джаяре джая парамахамса маха̄шяя
+---
+
 # А̄ча̄рʼя вандана
 
 ### Ґопа̄л Ґовінда Маханта
@@ -190,5 +195,3 @@ For this reason I endeavour thus, just like a dwarf aspiring to reach the moon. 
 
 So please keep incessantly showering your mercy, the nectar of ecstatic love of Godhead, and let all the souls of this world be uplifted by that. May all the people of the world dance in the congregational chanting of the Lord’s Holy Name—this is the prayer of this servant of the Vaiṣṇavas.
 
-
-> page = 221

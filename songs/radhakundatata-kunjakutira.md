@@ -1,3 +1,8 @@
+---
+page: 199
+first_line: ра̄дга̄кундатата-куньджакутīра
+---
+
 # Ра̄дга̄-кундатата-куньджа-кутīра
 
 ### Шрīла Бгактівінод Тха̄кур
@@ -58,5 +63,3 @@ I can never leave all these things so dear to me, Without them I know I’ll sur
 
 Hear me, O Kāna, says Śrī Bhakti Vinod: You are the only light of my life.
 
-
-> page = 199

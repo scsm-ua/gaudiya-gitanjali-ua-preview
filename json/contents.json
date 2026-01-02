@@ -1,0 +1,857 @@
+[
+  {
+    "name": "Вступ",
+    "items": [
+      {
+        "id": "vande-ham-shri-guroh-shri-yuta-pada-kamalam",
+        "filepath": "songs/vande-ham-shri-guroh-shri-yuta-pada-kamalam.md",
+        "title": "Вандана̄"
+      },
+      {
+        "id": "vande-vaikuntha-vritti-stham",
+        "filepath": "songs/vande-vaikuntha-vritti-stham.md",
+        "title": "Прана̄м Мантра - Шрīла Бгакті Бімал Авадгӯт Маха̄ра̄дж"
+      },
+      {
+        "id": "goswaminam-sudhirakhyam",
+        "filepath": "songs/goswaminam-sudhirakhyam.md",
+        "title": "Прана̄м Мантра - Шрīла Бгакті Судгīр Ґосва̄мī Маха̄ра̄дж"
+      },
+      {
+        "id": "pujya-sri-guru-varga-vandita",
+        "filepath": "songs/pujya-sri-guru-varga-vandita.md",
+        "title": "Прана̄м Мантра - Шрīла Бгакті Нірмал А̄ча̄рʼя Маха̄ра̄дж"
+      },
+      {
+        "id": "gurvabhishta-supurakam-guru-ganair",
+        "filepath": "songs/gurvabhishta-supurakam-guru-ganair.md",
+        "title": "Прана̄м Мантра - Шрīла Бгакті Сундар Ґовінда Дев-Ґосва̄мī Маха̄ра̄дж"
+      },
+      {
+        "id": "devam-divya-tanum-suchanda-vadanam-balarka-chelanchitam",
+        "filepath": "songs/devam-divya-tanum-suchanda-vadanam-balarka-chelanchitam.md",
+        "title": "Прана̄м Мантра - Шрīла Бгакті Ракшак Шрīдгар Дев-Ґосва̄мī Маха̄ра̄дж"
+      },
+      {
+        "id": "shri-siddhanta-sarasvatiti-vidito",
+        "filepath": "songs/shri-siddhanta-sarasvatiti-vidito.md",
+        "title": "Прана̄м Мантра - Бгаґава̄н Шрīла Бгакті Сіддга̄нта Сарасватī Тха̄кур"
+      },
+      {
+        "id": "namo-gaurakishoraya-bhaktavadhuta-murtaye",
+        "filepath": "songs/namo-gaurakishoraya-bhaktavadhuta-murtaye.md",
+        "title": "Прана̄м Мантра - Шрīла Ґаура Кішора Да̄с Ба̄ба̄джī Маха̄ра̄дж"
+      },
+      {
+        "id": "vande-bhaktivinodam-shri-gaura-shiakti-svarupakam",
+        "filepath": "songs/vande-bhaktivinodam-shri-gaura-shiakti-svarupakam.md",
+        "title": "Прана̄м Мантра - Шрīла Бгакті Вінод Тха̄кур"
+      },
+      {
+        "id": "gaura-vrajashritashieshair-vaishnavair-vandya-vigraham",
+        "filepath": "songs/gaura-vrajashritashieshair-vaishnavair-vandya-vigraham.md",
+        "title": "Прана̄м Мантра - Шрīла Джаґанна̄тх Да̄с Ба̄ба̄джī Маха̄ра̄дж"
+      },
+      {
+        "id": "vancha-kalpatarubhyas-cha",
+        "filepath": "songs/vancha-kalpatarubhyas-cha.md",
+        "title": "ва̄ньчха̄-калпатарубгʼяс’ ча"
+      },
+      {
+        "id": "jayatam-suratau-pangor",
+        "filepath": "songs/jayatam-suratau-pangor.md",
+        "title": "Шрī-Шрī-Ґуру-Ґаура̄нґа-Ра̄дга̄-Мадана-Моханджīу Колката"
+      },
+      {
+        "id": "divyad-vrindaranya-kalpa-drumadhah",
+        "filepath": "songs/divyad-vrindaranya-kalpa-drumadhah.md",
+        "title": "Шрī-Шрī-Ґуру-Ґаура̄нґа-Ґа̄ндгарва̄-Ґовіндасундарджīу Набадвīп"
+      },
+      {
+        "id": "shriman-rasa-rasarambhi",
+        "filepath": "songs/shriman-rasa-rasarambhi.md",
+        "title": "Шрī-Шрī-Ґуру-Ґаура̄нґа-Ра̄дга̄-Ґопīна̄тхджīу Ха̄па̄нія"
+      },
+      {
+        "id": "vrindayai-tulasi-devyai",
+        "filepath": "songs/vrindayai-tulasi-devyai.md",
+        "title": "вринда̄яй туласī-девʼяй"
+      },
+      {
+        "id": "sakala-vaishnava-pade-mora-namaskara",
+        "filepath": "songs/sakala-vaishnava-pade-mora-namaskara.md",
+        "title": "Молитви Вайшнавам"
+      },
+      {
+        "id": "namah-om-vishnupadaya-krishna",
+        "filepath": "songs/namah-om-vishnupadaya-krishna.md",
+        "title": "Прана̄м Мантра - Шрīла Сва̄мī Маха̄ра̄дж"
+      },
+      {
+        "id": "shrimach-chaitanya-sarasvata-mathavara-udgita-kirtir",
+        "filepath": "songs/shrimach-chaitanya-sarasvata-mathavara-udgita-kirtir.md",
+        "title": "Тхе Ґлорй о тхе Шрī Чайтанья Са̄расват Матх"
+      },
+      {
+        "id": "jaya-sa-parikara",
+        "filepath": "songs/jaya-sa-parikara.md",
+        "title": "Джая Дгвані"
+      },
+      {
+        "id": "shri-krishna-chaitanya-prabhu-nityananda",
+        "filepath": "songs/shri-krishna-chaitanya-prabhu-nityananda.md",
+        "title": "Паньча-таттва мантра"
+      },
+      {
+        "id": "hare-krishna-hare-krishna-krishna-krishna-hare-hare",
+        "filepath": "songs/hare-krishna-hare-krishna-krishna-krishna-hare-hare.md",
+        "title": "Харе Кришна маха̄мантра"
+      },
+      {
+        "id": "hari-nama-mahamantra-sarva-mantra-sara",
+        "filepath": "songs/hari-nama-mahamantra-sarva-mantra-sara.md",
+        "title": "Дашя-відга На̄ма̄пара̄дга"
+      },
+      {
+        "id": "nija-pati-bhuja-danda-chchhatra-bhavam",
+        "filepath": "songs/nija-pati-bhuja-danda-chchhatra-bhavam.md",
+        "title": "Шрī Шрī Ґовардгана-ва̄са-пра̄ртхана̄-дашякам"
+      }
+    ]
+  },
+  {
+    "name": "Ранкове А̄раті і програма",
+    "items": [
+      {
+        "id": "jaya-jaya-girirajer-arati-vishiala",
+        "filepath": "songs/jaya-jaya-girirajer-arati-vishiala.md",
+        "title": "Шрī Ґовінда Кунда Ґупта-Ґовардган А̄раті"
+      },
+      {
+        "id": "jaya-jaya-girirajer-arotiko-shobha",
+        "filepath": "songs/jaya-jaya-girirajer-arotiko-shobha.md",
+        "title": "Шрī Шрī Ґіріра̄дж-Ґовардган А̄раті"
+      },
+      {
+        "id": "jaya-guru-maharaja-karuna-sagara",
+        "filepath": "songs/jaya-guru-maharaja-karuna-sagara.md",
+        "title": "Шрī Шрī Ніта̄і-Чайтанья-А̄раті"
+      },
+      {
+        "id": "jaya-jaya-gurudever-arati-ujjvala",
+        "filepath": "songs/jaya-jaya-gurudever-arati-ujjvala.md",
+        "title": "Шрī Ґуру А̄раті"
+      },
+      {
+        "id": "jaya-guru-maharaja-jati-rajeshvara",
+        "filepath": "songs/jaya-guru-maharaja-jati-rajeshvara.md",
+        "title": "Шрī Ґуру А̄раті-стуті"
+      },
+      {
+        "id": "kali-kukkura-kadana-jadi-chao-he",
+        "filepath": "songs/kali-kukkura-kadana-jadi-chao-he.md",
+        "title": "Прабга̄ті Ґīті"
+      },
+      {
+        "id": "jashomati-nandana-vraja-vara-nagara",
+        "filepath": "songs/jashomati-nandana-vraja-vara-nagara.md",
+        "title": "Шрī На̄м-кīртан"
+      },
+      {
+        "id": "jaya-shiachinandana-sura-muni-vandana",
+        "filepath": "songs/jaya-shiachinandana-sura-muni-vandana.md",
+        "title": "Шрī Шячīнандана-вандана̄"
+      },
+      {
+        "id": "gurudeva-kripa-bindu-diya-kara-ei-dase",
+        "filepath": "songs/gurudeva-kripa-bindu-diya-kara-ei-dase.md",
+        "title": "Ґурудева"
+      },
+      {
+        "id": "udilo-aruna-puraba-bhage",
+        "filepath": "songs/udilo-aruna-puraba-bhage.md",
+        "title": "Арунодоя-кīртан 1"
+      },
+      {
+        "id": "jiv-jago-jiv-jago-gaurachanda-bole",
+        "filepath": "songs/jiv-jago-jiv-jago-gaurachanda-bole.md",
+        "title": "Арунодоя-кīртан 2"
+      },
+      {
+        "id": "samsara-davanala-lidha-loka",
+        "filepath": "songs/samsara-davanala-lidha-loka.md",
+        "title": "Шрī Шрī Ґурва̄штака"
+      },
+      {
+        "id": "shri-krishna-chaitanya-prabhu-jive-daya-kori",
+        "filepath": "songs/shri-krishna-chaitanya-prabhu-jive-daya-kori.md",
+        "title": "Благодатне звернення до Шярана̄ґаті"
+      },
+      {
+        "id": "bhaja-re-bhaja-re-amar-mana-ati-manda",
+        "filepath": "songs/bhaja-re-bhaja-re-amar-mana-ati-manda.md",
+        "title": "Бгаджан-ґīті"
+      },
+      {
+        "id": "vibhavari-shiesha-aloka-praveshia",
+        "filepath": "songs/vibhavari-shiesha-aloka-praveshia.md",
+        "title": "Вібга̄варī Шєша"
+      },
+      {
+        "id": "thakura-vaishnava-gana-kori-ei-nivedana",
+        "filepath": "songs/thakura-vaishnava-gana-kori-ei-nivedana.md",
+        "title": "Тха̄кура-вайшнава-ґана"
+      },
+      {
+        "id": "hari-haraye-namah-krishna-yadavaya-namah",
+        "filepath": "songs/hari-haraye-namah-krishna-yadavaya-namah.md",
+        "title": "На̄м-санкīртан"
+      }
+    ]
+  },
+  {
+    "name": "Обіднє А̄раті",
+    "items": [
+      {
+        "id": "bhaja-bhakata-vatsala-shri-gaurahari",
+        "filepath": "songs/bhaja-bhakata-vatsala-shri-gaurahari.md",
+        "title": "Шрī Бгоґ А̄раті Ґīті"
+      },
+      {
+        "id": "mahaprasade-govinde-nama-brahmani",
+        "filepath": "songs/mahaprasade-govinde-nama-brahmani.md",
+        "title": "Маха̄праса̄да"
+      },
+      {
+        "id": "shorira-avidya-jal-jodendriya-tahe-kal",
+        "filepath": "songs/shorira-avidya-jal-jodendriya-tahe-kal.md",
+        "title": "Шрī Праса̄да-сева̄я Ґīті"
+      }
+    ]
+  },
+  {
+    "name": "Вечірнє А̄раті",
+    "items": [
+      {
+        "id": "jaya-jaya-gaurachander-arotiko-shobha",
+        "filepath": "songs/jaya-jaya-gaurachander-arotiko-shobha.md",
+        "title": "Шрī Ґаура-а̄раті"
+      },
+      {
+        "id": "jayare-jayare-jaya-gaura-sarasvati",
+        "filepath": "songs/jayare-jayare-jaya-gaura-sarasvati.md",
+        "title": "Шрī Са̄расват-а̄раті"
+      },
+      {
+        "id": "kobe-shri-chaitanya-more-koribena-daya",
+        "filepath": "songs/kobe-shri-chaitanya-more-koribena-daya.md",
+        "title": "Дайнья Пра̄ртхана̄ Ґīті"
+      },
+      {
+        "id": "namo-namah-tulasi-maharani",
+        "filepath": "songs/namo-namah-tulasi-maharani.md",
+        "title": "Шрī Туласī-парікрама̄-ґīті"
+      },
+      {
+        "id": "shri-guru-charana-padma-kevala-bhakati",
+        "filepath": "songs/shri-guru-charana-padma-kevala-bhakati.md",
+        "title": "Шрī Ґуру-вайшнава Ма̄ха̄тмʼя-ґīті"
+      },
+      {
+        "id": "shri-krishna-chaitanya-prabhu-daya-kara-more",
+        "filepath": "songs/shri-krishna-chaitanya-prabhu-daya-kara-more.md",
+        "title": "Са̄варана-Шрī-Ґаура-па̄да-падме Пра̄ртхана̄"
+      },
+      {
+        "id": "vaishnava-thakura-dayara-sagara",
+        "filepath": "songs/vaishnava-thakura-dayara-sagara.md",
+        "title": "Шрī Вайшнава-махіма̄-ґīті"
+      },
+      {
+        "id": "sujanarvuda-radhita-pada-yugam",
+        "filepath": "songs/sujanarvuda-radhita-pada-yugam.md",
+        "title": "Шрī Шрī Прабгупа̄да-падма Ставаках"
+      },
+      {
+        "id": "deva-siddha-mukta-yukta-bhakta-vrinda",
+        "filepath": "songs/deva-siddha-mukta-yukta-bhakta-vrinda.md",
+        "title": "Шрī Шрī Премадга̄ма-дева-стотрам"
+      }
+    ]
+  },
+  {
+    "name": "Пісні, присвячені Нітьянанді",
+    "items": [
+      {
+        "id": "nadiya-godrume-nityananda-mahajana",
+        "filepath": "songs/nadiya-godrume-nityananda-mahajana.md",
+        "title": "А̄ґʼя-Тахал"
+      },
+      {
+        "id": "nitai-pada-kamala-koti-chandra-sushitala",
+        "filepath": "songs/nitai-pada-kamala-koti-chandra-sushitala.md",
+        "title": "Манах-Шікша̄"
+      },
+      {
+        "id": "dhana-mora-nityananda-pati-mora",
+        "filepath": "songs/dhana-mora-nityananda-pati-mora.md",
+        "title": "Сва-Ніштха"
+      },
+      {
+        "id": "nitai-gunamani-amara-nitai-gunamani",
+        "filepath": "songs/nitai-gunamani-amara-nitai-gunamani.md",
+        "title": "Ніта̄і ґунамані а̄ма̄ра"
+      },
+      {
+        "id": "akrodha-paramananda",
+        "filepath": "songs/akrodha-paramananda.md",
+        "title": "Акродга парама̄нанда"
+      },
+      {
+        "id": "parama-karuna-pahu-dui-jana",
+        "filepath": "songs/parama-karuna-pahu-dui-jana.md",
+        "title": "Шрī Шрī Ґаура-Нітьянандер Дая"
+      },
+      {
+        "id": "dayal-nitai-chaitanya-bole-nach-re",
+        "filepath": "songs/dayal-nitai-chaitanya-bole-nach-re.md",
+        "title": "Даял Ніта̄і Чайтанья"
+      }
+    ]
+  },
+  {
+    "name": "Пісні, присвячені Шрі Чайтаньї Маха̄прабгу",
+    "items": [
+      {
+        "id": "gaurangera-duti-pada-jar-dhana-sampada",
+        "filepath": "songs/gaurangera-duti-pada-jar-dhana-sampada.md",
+        "title": "Са̄варана-Шрī-Ґаура-махіма̄"
+      },
+      {
+        "id": "gaura-pahu-na-bhajiya-mainu",
+        "filepath": "songs/gaura-pahu-na-bhajiya-mainu.md",
+        "title": "Ґаура̄ Паху"
+      },
+      {
+        "id": "avatara-sara-gora-avatara",
+        "filepath": "songs/avatara-sara-gora-avatara.md",
+        "title": "Авата̄ра Са̄ра"
+      },
+      {
+        "id": "gay-gora-madhur-svare",
+        "filepath": "songs/gay-gora-madhur-svare.md",
+        "title": "Шрī На̄ма"
+      },
+      {
+        "id": "kobe-gaura-vane-suradhuni-tate",
+        "filepath": "songs/kobe-gaura-vane-suradhuni-tate.md",
+        "title": "Сіддгі-Ла̄ласа̄"
+      },
+      {
+        "id": "kali-ghora-timire-garasala-jagajana",
+        "filepath": "songs/kali-ghora-timire-garasala-jagajana.md",
+        "title": "Калі-гора тіміре"
+      },
+      {
+        "id": "jadi-gaura-na-hoto-tobe-ki-hoito",
+        "filepath": "songs/jadi-gaura-na-hoto-tobe-ki-hoito.md",
+        "title": "Джаді Ґаура на̄ хо’то"
+      },
+      {
+        "id": "emona-gauranga-bine-nahi-ara",
+        "filepath": "songs/emona-gauranga-bine-nahi-ara.md",
+        "title": "Емона Ґаура̄нґа біне на̄хі а̄ра"
+      },
+      {
+        "id": "ke-jabi-ke-jabi-bhai-bhava-sindhu-para",
+        "filepath": "songs/ke-jabi-ke-jabi-bhai-bhava-sindhu-para.md",
+        "title": "Ке джабі ке джабі"
+      },
+      {
+        "id": "vimala-hemajin-tanu-anupama-re",
+        "filepath": "songs/vimala-hemajin-tanu-anupama-re.md",
+        "title": "Вімала хемаджіні"
+      },
+      {
+        "id": "gauranga-bolite-hobe-pulaka-shorira",
+        "filepath": "songs/gauranga-bolite-hobe-pulaka-shorira.md",
+        "title": "‘Ґаура̄нґа’ боліте хабе"
+      },
+      {
+        "id": "aruna-basane-sonara-suraja",
+        "filepath": "songs/aruna-basane-sonara-suraja.md",
+        "title": "Шрī Шрī Ґаурасундарер Авірбга̄ва Васаре"
+      },
+      {
+        "id": "yadi-te-hari-pada-saroja-sudha",
+        "filepath": "songs/yadi-te-hari-pada-saroja-sudha.md",
+        "title": "Шрī Ґодрумачандра-бгаджанопадешя"
+      }
+    ]
+  },
+  {
+    "name": "Інші пісні",
+    "items": [
+      {
+        "id": "thakura-vaishnava-pada-avanira",
+        "filepath": "songs/thakura-vaishnava-pada-avanira.md",
+        "title": "Тха̄кура-вайшнава-пада"
+      },
+      {
+        "id": "je-anilo-prema-dhana-karuna-prachura",
+        "filepath": "songs/je-anilo-prema-dhana-karuna-prachura.md",
+        "title": "Віраха-ґīті"
+      },
+      {
+        "id": "ei-vara-karuna-kara-vaishnava-gosani",
+        "filepath": "songs/ei-vara-karuna-kara-vaishnava-gosani.md",
+        "title": "Вайшнава Віґʼяпті"
+      },
+      {
+        "id": "kripa-kara-vaishnava-thakura",
+        "filepath": "songs/kripa-kara-vaishnava-thakura.md",
+        "title": "Пра̄ртхана̄ Лаласа̄маї"
+      },
+      {
+        "id": "narada-muni-bajaya-vina",
+        "filepath": "songs/narada-muni-bajaya-vina.md",
+        "title": "Шрī На̄ма̄штакам 8"
+      },
+      {
+        "id": "krishnotkirtana-gana-nartana-parau",
+        "filepath": "songs/krishnotkirtana-gana-nartana-parau.md",
+        "title": "Шрī Шрī Шад-Ґосва̄мй-аштакам"
+      },
+      {
+        "id": "ohe-harinam-tava-mahima-apara",
+        "filepath": "songs/ohe-harinam-tava-mahima-apara.md",
+        "title": "Шрī На̄ма̄штакам 7"
+      },
+      {
+        "id": "ki-rupe-paibo-seva-mui-durachara",
+        "filepath": "songs/ki-rupe-paibo-seva-mui-durachara.md",
+        "title": "Кі-рӯпе па̄ібо сева̄"
+      },
+      {
+        "id": "bhajahu-re-mana-shri-nanda-nandana",
+        "filepath": "songs/bhajahu-re-mana-shri-nanda-nandana.md",
+        "title": "Бгаджаху Ре Мана"
+      },
+      {
+        "id": "manasa-deho-geho-jo-kichu-mora",
+        "filepath": "songs/manasa-deho-geho-jo-kichu-mora.md",
+        "title": "Ма̄наса Дехо Ґехо"
+      },
+      {
+        "id": "e-ghora-samsare-podiya-manava",
+        "filepath": "songs/e-ghora-samsare-podiya-manava.md",
+        "title": "Е гора самсаре"
+      },
+      {
+        "id": "dushta-mana-tumi-kisera-vaishnava",
+        "filepath": "songs/dushta-mana-tumi-kisera-vaishnava.md",
+        "title": "Вайшнава Ке?"
+      },
+      {
+        "id": "emona-durmati-samsara-bhitore",
+        "filepath": "songs/emona-durmati-samsara-bhitore.md",
+        "title": "Дайньятміка̄"
+      },
+      {
+        "id": "ki-jani-ki-bale-tomara-dhamete",
+        "filepath": "songs/ki-jani-ki-bale-tomara-dhamete.md",
+        "title": "Ґоптритве Варана"
+      },
+      {
+        "id": "bhuliya-tomare-samsare-asiya",
+        "filepath": "songs/bhuliya-tomare-samsare-asiya.md",
+        "title": "Дайнья"
+      },
+      {
+        "id": "hari-he-prapanche-podiya-agati-hoiya",
+        "filepath": "songs/hari-he-prapanche-podiya-agati-hoiya.md",
+        "title": "Бгаджан-Ла̄ласа̄"
+      },
+      {
+        "id": "hari-hari-biphole-janama-goyainu",
+        "filepath": "songs/hari-hari-biphole-janama-goyainu.md",
+        "title": "Ішта-деве Віґʼяпті"
+      },
+      {
+        "id": "atma-nivedana-tuya-pade-kori",
+        "filepath": "songs/atma-nivedana-tuya-pade-kori.md",
+        "title": "А̄тма-ніведана"
+      },
+      {
+        "id": "amara-jivana-sada-pape-rata",
+        "filepath": "songs/amara-jivana-sada-pape-rata.md",
+        "title": "А̄ма̄ра джīвана"
+      },
+      {
+        "id": "tumi-sarveshvareshvara-vrajendra-kumara",
+        "filepath": "songs/tumi-sarveshvareshvara-vrajendra-kumara.md",
+        "title": "Тумі сарвешварешвара"
+      },
+      {
+        "id": "sarvasva-tomara-charane-sanpiya",
+        "filepath": "songs/sarvasva-tomara-charane-sanpiya.md",
+        "title": "Сарвасва тома̄ра"
+      },
+      {
+        "id": "tatala-saikate-vari-bindu-sama",
+        "filepath": "songs/tatala-saikate-vari-bindu-sama.md",
+        "title": "Та̄тала Сайкате"
+      },
+      {
+        "id": "hari-he-dayala-mora-jaya-radha-natha",
+        "filepath": "songs/hari-he-dayala-mora-jaya-radha-natha.md",
+        "title": "Дайнья О Прапатті"
+      },
+      {
+        "id": "atma-samarpane-gela-abhimana",
+        "filepath": "songs/atma-samarpane-gela-abhimana.md",
+        "title": "А̄тма-самарпане"
+      },
+      {
+        "id": "kobe-hobe-bolo-se-dina-amar",
+        "filepath": "songs/kobe-hobe-bolo-se-dina-amar.md",
+        "title": "Кобе хо’бе боло"
+      },
+      {
+        "id": "gopinath-mama-nivedana-shiuno",
+        "filepath": "songs/gopinath-mama-nivedana-shiuno.md",
+        "title": "Ніведана 1"
+      },
+      {
+        "id": "gopinath-ghuchao-samsara-jvala",
+        "filepath": "songs/gopinath-ghuchao-samsara-jvala.md",
+        "title": "Ніведана 2"
+      },
+      {
+        "id": "gopinath-amara-upaya-nai",
+        "filepath": "songs/gopinath-amara-upaya-nai.md",
+        "title": "Ніведана 3"
+      },
+      {
+        "id": "shri-rupa-manjari-pada-sei-mora-sampada",
+        "filepath": "songs/shri-rupa-manjari-pada-sei-mora-sampada.md",
+        "title": "Шрī-Рӯпа-Маньджарī-пада"
+      },
+      {
+        "id": "durlabha-manava-janma-labhiya-samsare",
+        "filepath": "songs/durlabha-manava-janma-labhiya-samsare.md",
+        "title": "Дурлабга ма̄нава-джанма"
+      },
+      {
+        "id": "anya-abhilasha-chadi-jniana-karma-parihari",
+        "filepath": "songs/anya-abhilasha-chadi-jniana-karma-parihari.md",
+        "title": "Анья-абгіла̄ша чха̄ді"
+      }
+    ]
+  },
+  {
+    "name": "Шрī Шікша̄штакам",
+    "items": [
+      {
+        "id": "pita-varana-kali-pavana-gora",
+        "filepath": "songs/pita-varana-kali-pavana-gora.md",
+        "title": "1. Піта-варана калі"
+      },
+      {
+        "id": "tuhu-daya-sagara-tarayite-prani",
+        "filepath": "songs/tuhu-daya-sagara-tarayite-prani.md",
+        "title": "2. Туху дая-са̄ґара"
+      },
+      {
+        "id": "shri-krishna-kirtane-jodi-manasa-tohara",
+        "filepath": "songs/shri-krishna-kirtane-jodi-manasa-tohara.md",
+        "title": "3. Шрī-Кришна-кīртане джоді"
+      },
+      {
+        "id": "prabhu-tava-pada-juge-mora-nivedana",
+        "filepath": "songs/prabhu-tava-pada-juge-mora-nivedana.md",
+        "title": "4. Прабгу тава пада"
+      },
+      {
+        "id": "anadi-karama-phole",
+        "filepath": "songs/anadi-karama-phole.md",
+        "title": "5. Ана̄ді карама пхоле"
+      },
+      {
+        "id": "aparadha-phole-mama",
+        "filepath": "songs/aparadha-phole-mama.md",
+        "title": "6. Апара̄дга-пхоле мама"
+      },
+      {
+        "id": "gaite-gaite-nama-ki-doshia-hoilo",
+        "filepath": "songs/gaite-gaite-nama-ki-doshia-hoilo.md",
+        "title": "7a. Ґа̄іте ґа̄іте на̄ма"
+      },
+      {
+        "id": "gaite-govinda-nam-upajilo-bhava-gram",
+        "filepath": "songs/gaite-govinda-nam-upajilo-bhava-gram.md",
+        "title": "7b. Ґа̄іте ‘ґовінда’–на̄м"
+      },
+      {
+        "id": "sakhi-go-kemote-dhoribo-paran",
+        "filepath": "songs/sakhi-go-kemote-dhoribo-paran.md",
+        "title": "7c. Сакхī ґо кемоте"
+      },
+      {
+        "id": "bondhu-gon-shiunoho-vachana-mora",
+        "filepath": "songs/bondhu-gon-shiunoho-vachana-mora.md",
+        "title": "8a. Бондгу-ґон! шюнохо"
+      },
+      {
+        "id": "yoga-pithopari-sthita-ashta-sakhi-subeshtita",
+        "filepath": "songs/yoga-pithopari-sthita-ashta-sakhi-subeshtita.md",
+        "title": "8b. Йоґа-пīтхопарі-стхіта"
+      }
+    ]
+  },
+  {
+    "name": "Пісні Шрīматī Ра̄дга̄ра̄нī",
+    "items": [
+      {
+        "id": "radhika-charana-padma-sakala-shreyera",
+        "filepath": "songs/radhika-charana-padma-sakala-shreyera.md",
+        "title": "Шрī Ра̄дга̄штака 1"
+      },
+      {
+        "id": "virajar-pare-shiuddha-paravyoma-dham",
+        "filepath": "songs/virajar-pare-shiuddha-paravyoma-dham.md",
+        "title": "Шрī Ра̄дга̄штака 2"
+      },
+      {
+        "id": "radha-bhajane-jodi-moti-nahi-bhela",
+        "filepath": "songs/radha-bhajane-jodi-moti-nahi-bhela.md",
+        "title": "Шрī Ра̄дга̄штака 3"
+      },
+      {
+        "id": "radhakundatata-kunjakutira",
+        "filepath": "songs/radhakundatata-kunjakutira.md",
+        "title": "Ра̄дга̄-кундатата-куньджа-кутīра"
+      },
+      {
+        "id": "radhe-jaya-jaya-madhava-dayite",
+        "filepath": "songs/radhe-jaya-jaya-madhava-dayite.md",
+        "title": "Шрī Ра̄дгіка̄-става"
+      }
+    ]
+  },
+  {
+    "name": "Пісні, присвячені Шрī Кришні",
+    "items": [
+      {
+        "id": "he-deva-bhavantam-vande",
+        "filepath": "songs/he-deva-bhavantam-vande.md",
+        "title": "Хе дева бгавантам ванде"
+      },
+      {
+        "id": "radha-madhava-kunja-bihari",
+        "filepath": "songs/radha-madhava-kunja-bihari.md",
+        "title": "Джая Ра̄дга̄-Ма̄дгава"
+      },
+      {
+        "id": "mayura-mukuta-pitambara-dhari",
+        "filepath": "songs/mayura-mukuta-pitambara-dhari.md",
+        "title": "Маюра мукута"
+      },
+      {
+        "id": "jaya-jaya-radha-krishna-jugala-milan",
+        "filepath": "songs/jaya-jaya-radha-krishna-jugala-milan.md",
+        "title": "Шрī Джуґала-а̄раті"
+      },
+      {
+        "id": "radha-krishna-prana-mora-jugala-kishora",
+        "filepath": "songs/radha-krishna-prana-mora-jugala-kishora.md",
+        "title": "Сакхі-вринде Віґʼяптіх"
+      },
+      {
+        "id": "jaya-radhe-jaya-krishna-jaya-vrindavan",
+        "filepath": "songs/jaya-radhe-jaya-krishna-jaya-vrindavan.md",
+        "title": "Шрī Враджа-дга̄ма-махіма̄мрита"
+      },
+      {
+        "id": "janama-saphala-tara-krishna-darashiana-jara",
+        "filepath": "songs/janama-saphala-tara-krishna-darashiana-jara.md",
+        "title": "Рӯпа-Кīртан"
+      },
+      {
+        "id": "shiuno-he-rasika-jon-krishna-guna-aganon",
+        "filepath": "songs/shiuno-he-rasika-jon-krishna-guna-aganon.md",
+        "title": "Ґуна-Кīртан"
+      },
+      {
+        "id": "jaya-yashoda-nandana-krishna-gopala-govinda",
+        "filepath": "songs/jaya-yashoda-nandana-krishna-gopala-govinda.md",
+        "title": "Джая Яшода̄-Нандана Кришна"
+      },
+      {
+        "id": "shrita-kamala-kuchha-mandala-dhrita",
+        "filepath": "songs/shrita-kamala-kuchha-mandala-dhrita.md",
+        "title": "Шріта Камала̄"
+      }
+    ]
+  },
+  {
+    "name": "Екадаші та святкові дні",
+    "items": [
+      {
+        "id": "jaya-shrila-maharaja-charanaravinda",
+        "filepath": "songs/jaya-shrila-maharaja-charanaravinda.md",
+        "title": "А̄ча̄рʼя-чарана-вандана"
+      },
+      {
+        "id": "krishna-hoite-chatur-mukha",
+        "filepath": "songs/krishna-hoite-chatur-mukha.md",
+        "title": "Шрī Ґуру-парампара̄"
+      },
+      {
+        "id": "bhayabhanjana-jayashiamsana",
+        "filepath": "songs/bhayabhanjana-jayashiamsana.md",
+        "title": "Шрī Даїта Да̄с Пранаті Паньчакам"
+      },
+      {
+        "id": "jayare-jayare-jaya-paramahamsa-mahashiaya",
+        "filepath": "songs/jayare-jayare-jaya-paramahamsa-mahashiaya.md",
+        "title": "А̄ча̄рʼя вандана"
+      },
+      {
+        "id": "pralaya-payodhi-jale-dhritavan-asi-vedam",
+        "filepath": "songs/pralaya-payodhi-jale-dhritavan-asi-vedam.md",
+        "title": "Шрī Дашявата̄р-стотрам"
+      },
+      {
+        "id": "namas-te-narasimhaya",
+        "filepath": "songs/namas-te-narasimhaya.md",
+        "title": "Шрī Нрисімга Прана̄м"
+      },
+      {
+        "id": "namamishvaram-sachchidananda-rupam",
+        "filepath": "songs/namamishvaram-sachchidananda-rupam.md",
+        "title": "Шрī Шрī Да̄модара̄штакам"
+      },
+      {
+        "id": "nadiya-nagare-nitai-neche-neche-gay-re",
+        "filepath": "songs/nadiya-nagare-nitai-neche-neche-gay-re.md",
+        "title": "Шрīман Маха̄прабгур шята-на̄ма"
+      },
+      {
+        "id": "nagare-nagare-gora-gay",
+        "filepath": "songs/nagare-nagare-gora-gay.md",
+        "title": "Шрī Кришнера Вімсоттара-шята-на̄ма"
+      },
+      {
+        "id": "shri-hari-vasare-hari-kirtana-vidhana",
+        "filepath": "songs/shri-hari-vasare-hari-kirtana-vidhana.md",
+        "title": "Шрī Харі-ва̄сара-ґīті"
+      },
+      {
+        "id": "shiuddha-bhakata-charana-renu",
+        "filepath": "songs/shiuddha-bhakata-charana-renu.md",
+        "title": "Шюддга-бгаката"
+      },
+      {
+        "id": "chaudda-shiata-sata-shiake-masa-je-phalgun",
+        "filepath": "songs/chaudda-shiata-sata-shiake-masa-je-phalgun.md",
+        "title": "Шрī Ґаура Пурнīма̄"
+      },
+      {
+        "id": "prabhu-kohe-kohilan-ei-mahamantra",
+        "filepath": "songs/prabhu-kohe-kohilan-ei-mahamantra.md",
+        "title": "Прабгу кохе"
+      },
+      {
+        "id": "nagara-bhramiya-amara-gaura-elo-ghore",
+        "filepath": "songs/nagara-bhramiya-amara-gaura-elo-ghore.md",
+        "title": "Атер парікрама̄"
+      },
+      {
+        "id": "radha-krishna-bol-bol-bolo-re-sobai",
+        "filepath": "songs/radha-krishna-bol-bol-bolo-re-sobai.md",
+        "title": "Шрī Наґара Кīртана 4"
+      },
+      {
+        "id": "hari-bole-modera-gaura-elo",
+        "filepath": "songs/hari-bole-modera-gaura-elo.md",
+        "title": "Шрī Наґара Кīртана 8"
+      }
+    ]
+  },
+  {
+    "name": "Твори Шрīли Шрīдгара Маха̄ра̄джа",
+    "items": [
+      {
+        "id": "ha-ha-bhaktivinoda-thakkura-guroh",
+        "filepath": "songs/ha-ha-bhaktivinoda-thakkura-guroh.md",
+        "title": "Шрīмад Бгакті Вінод-віраха Дашякам"
+      },
+      {
+        "id": "guror-guro-me-paramo-gurus-tvam",
+        "filepath": "songs/guror-guro-me-paramo-gurus-tvam.md",
+        "title": "Шрī Шрīмад Ґаура-Кішора-намаска̄ра Дашякам"
+      },
+      {
+        "id": "nite-yasmin-nishiante-nayana-jala-bharaih",
+        "filepath": "songs/nite-yasmin-nishiante-nayana-jala-bharaih.md",
+        "title": "Шрī Шрī Даїта Да̄с Дашякам"
+      },
+      {
+        "id": "shrimach-chaitanyapadau-chara",
+        "filepath": "songs/shrimach-chaitanyapadau-chara.md",
+        "title": "Шрīмад Рӯпа-пада-раджах Пра̄ртхана̄ Дашякам"
+      },
+      {
+        "id": "yo-nanto-nanta-vaktrair-niravadhi",
+        "filepath": "songs/yo-nanto-nanta-vaktrair-niravadhi.md",
+        "title": "Шрīман Нітьянанда Два̄дашякам"
+      },
+      {
+        "id": "guru-rupa-virajita-nanda-sutam",
+        "filepath": "songs/guru-rupa-virajita-nanda-sutam.md",
+        "title": "Шрī Ґаурахарі-Кусума-Става̄штакам"
+      }
+    ]
+  },
+  {
+    "name": "Твори Шрīли Ґовінди Маха̄ра̄джа",
+    "items": [
+      {
+        "id": "shri-svarupa-raya-rupa-jiva-bhava",
+        "filepath": "songs/shri-svarupa-raya-rupa-jiva-bhava.md",
+        "title": "Прана̄м Мантра - Шрīла Ґуру Маха̄ра̄дж"
+      },
+      {
+        "id": "naumi-shri-gurupadabjam",
+        "filepath": "songs/naumi-shri-gurupadabjam.md",
+        "title": "Пранаті Дашякам"
+      },
+      {
+        "id": "samudra-sambhava-gabhi-surabhi-apana",
+        "filepath": "songs/samudra-sambhava-gabhi-surabhi-apana.md",
+        "title": "Шрī Ґовінда Кунда Ма̄ха̄тмʼя"
+      },
+      {
+        "id": "devadidevam-ahibhushanam-indukashiam",
+        "filepath": "songs/devadidevam-ahibhushanam-indukashiam.md",
+        "title": "Ґанґадгара Сада̄шіва Прана̄м-Мантрам"
+      },
+      {
+        "id": "bhagyadhishia-tvadiyo-vimala-sukhamayah",
+        "filepath": "songs/bhagyadhishia-tvadiyo-vimala-sukhamayah.md",
+        "title": "Шрī Ґуру-Прашястіх"
+      },
+      {
+        "id": "nava-nalina-ganjitam-kusuma-dala",
+        "filepath": "songs/nava-nalina-ganjitam-kusuma-dala.md",
+        "title": "Пранаті-Паньчакам"
+      },
+      {
+        "id": "maha-bhaya-shiankula-e-bhava-tarangini",
+        "filepath": "songs/maha-bhaya-shiankula-e-bhava-tarangini.md",
+        "title": "Ма̄я Дуратьяя"
+      }
+    ]
+  }
+]

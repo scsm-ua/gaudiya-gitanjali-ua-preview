@@ -1,3 +1,8 @@
+---
+page: 78
+first_line: суджана̄рвуда-ра̄дгіта-па̄да-юґам
+---
+
 # Шрī Шрī Прабгупа̄да-падма
 # Ставаках
 
@@ -104,5 +109,3 @@ The crown-jewel of the *paramahaṁsas*, the Prince of the treasure of the supre
 
 He is the dearmost intimate follower of the Divine Daughter of Śrī Vṛṣabhānu, and I know myself as the most fortunate by taking the dust of his holy feet upon my head. I make my obeisance unto his invincible, wondrously purifying lotus feet—perpetually do I bow to the brilliance emanating from the toenails of the holy feet of my Divine Master.
 
-
-> page = 78

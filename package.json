@@ -10,5 +10,12 @@
   "bugs": {
     "url": "https://github.com/scsm-ua/gaudiya-gitanjali-ua-preview/issues"
   },
-  "homepage": "https://github.com/scsm-ua/gaudiya-gitanjali-ua-preview#readme"
+  "homepage": "https://github.com/scsm-ua/gaudiya-gitanjali-ua-preview#readme",
+  "scripts": {
+    "build": "songbook-build",
+    "test": "songbook-validate"
+  },
+  "dependencies": {
+    "songbook-md-json-parser": "github:scsm-ua/songbook-md-json-parser"
+  }
 }

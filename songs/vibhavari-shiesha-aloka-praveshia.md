@@ -1,3 +1,8 @@
+---
+page: 52
+first_line: вібга̄варī шєша, а̄лока-правешя
+---
+
 # Вібга̄варī Шєша
 
 ### Шрīла Бгактівінод Тха̄кур
@@ -74,5 +79,3 @@ He increases the ecstasy of His devotees. He is the reservoir of all love and is
 
 Lord Krishna is the life of the River Yamunā. He is always absorbed in amorous Pastimes, and He is the moon of the *gopīs*’ minds, which are like the chakora birds that subsist only upon moonlight. O mind, obey these words of mine and sing the glories of Śrī Krishna in the form of these Holy Names, which are full of nectarean mellows.
 
-
-> page = 52

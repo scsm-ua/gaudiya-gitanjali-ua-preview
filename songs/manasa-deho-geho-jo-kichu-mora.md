@@ -1,3 +1,8 @@
+---
+page: 147
+first_line: ма̄наса, дехо, ґехо, джо кічӯ мора
+---
+
 # Ма̄наса Дехо Ґехо
 
 ### Шрīла Бгактівінод Тха̄кур
@@ -58,5 +63,3 @@ Father, mother, lover, son, Lord, preceptor, and husband — You are everything 
 
 Bhakti Vinod says, “O Krishna, please hear me! Oh Lord of Rādhā, You are my life and soul!”
 
-
-> page = 147

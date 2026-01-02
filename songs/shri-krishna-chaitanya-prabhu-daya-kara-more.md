@@ -1,3 +1,8 @@
+---
+page: 75
+first_line: шрī кришна чайтанья прабгу дая кара море
+---
+
 # Са̄варана-Шрī-Ґаура-па̄да-падме
 # Пра̄ртхана̄
 
@@ -59,5 +64,3 @@ Please grant Your blessings Oh Lord Śrī Śrīnivās Āchārya;  for  the  comp
 
 Kindly give Your Grace, Śrīla Prabhupād Saraswatī Ṭhākur, manifestation of Śrī Gaura. This fallen servant begs the mercy of your associates.
 
-
-> page = 75

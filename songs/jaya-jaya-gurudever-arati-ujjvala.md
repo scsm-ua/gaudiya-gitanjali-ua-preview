@@ -1,3 +1,8 @@
+---
+page: 70
+first_line: джая джая ґурудевер а̄раті уджджвала
+---
+
 # Шрī Ґуру А̄раті
 
 ## Glorification of Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
@@ -118,5 +123,3 @@ Past, present, and future—for all eternity, we beg your mercy. Only by your me
 
 O my lord, who is the manifestation of the mercy of Śrī Gaurāṅga, please be merciful to me. This insignificant servant of yours is always praying this way while worshipping you.
 
-
-> page = 70

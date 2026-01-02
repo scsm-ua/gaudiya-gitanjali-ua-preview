@@ -1,3 +1,8 @@
+---
+page: 136
+first_line: еі-ва̄ра каруна̄ кара вайшнава ґоса̄ні
+---
+
 # Вайшнава Віґʼяпті
 
 ### Шрīла Нароттам Да̄с Тха̄кур
@@ -44,5 +49,3 @@ In your heart Govinda is always resting. Śrī Govinda Himself says, “My devot
 
 I hope that in every birth I will obtain the dust of your lotus feet. Śrī Narottam prays, “Please, Oh Vaiṣṇava Goswāmī, be kind unto me.”
 
-
-> page = 136

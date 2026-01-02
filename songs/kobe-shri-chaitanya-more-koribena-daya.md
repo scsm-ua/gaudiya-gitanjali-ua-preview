@@ -1,3 +1,8 @@
+---
+page: 118
+first_line: кобе шрī чайтанья море-корібена дая
+---
+
 # Дайнья Пра̄ртхана̄ Ґīті
 
 ### Шрīла Бгактівінод Тха̄кур
@@ -51,5 +56,3 @@ Then satisfied by that Vaiṣṇava’s prayer Krishna will be merciful upon thi
 
 Bhakti Vinod Ṭhākur submits this prayer at the lotus feet of the Vaiṣṇavas. “Give me your Grace and accept this lowly soul in your association.”
 
-
-> page = 118

@@ -1,3 +1,8 @@
+---
+page: 204
+first_line: джая джая ра̄дга̄-кришна джуґала-мілан
+---
+
 # Шрī Джуґала-а̄раті
 
 ### Шрīла Бгактівінод Тха̄кур
@@ -44,5 +49,3 @@ Viśākhā and the other girls sing songs in various tunes and moods as Krishna�
 
 Yearning to attain the lotus feet of Śrī Śrī Rādhā-Krishna, Bhakti Vinod floats in happiness at the gopīs’ feet.
 
-
-> page = 204

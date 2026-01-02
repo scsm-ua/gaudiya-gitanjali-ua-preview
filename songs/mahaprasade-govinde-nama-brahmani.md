@@ -1,3 +1,9 @@
+---
+page: 62
+first_line: маха̄праса̄де ґовінде на̄ма брахмані
+no-author: 1
+---
+
 # Маха̄праса̄да
 
     маха̄праса̄де ґовінде на̄ма брахмані вайшнаве
@@ -5,5 +11,3 @@
 
 For those who have not amassed sufficient pious credits they will never be able to honour Mahāprasāda, Lord Govinda, the Holy Name, the *brāhmaṇs* and the Vaiṣṇavas.
 
-
-> page = 62

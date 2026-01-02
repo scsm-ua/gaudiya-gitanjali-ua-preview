@@ -1,6 +1,10 @@
+---
+first_line: яді те харі-па̄да-сароджа-судга̄
+---
+
 # Шрī Ґодрумачандра-бгаджанопадешя
 
-## Instructions for Worshiping Lord Chaitanya, the Moon of the Island of Godruma-dvīpa 
+## Instructions for Worshiping Lord Chaitanya, the Moon of the Island of Godruma-dvīpa
 
 ### by Śrīla Bhakti Vinod Ṭhākur (1893)
 
@@ -15,7 +19,7 @@ If your heart wishes to be always absorbed in drinking the ambrosial mellows of 
 
 #### 2
 
-    дгана-яувана-джīвана-ра̄джʼя-сукхам 
+    дгана-яувана-джīвана-ра̄джʼя-сукхам
     а хі нітьям анукшана-на̄шя-парам
     тьяджа ґра̄мʼя-катха̄-сакалам віпхалам
     бгаджа ґодрума-ка̄нана-куньджа-відгум

@@ -1,3 +1,8 @@
+---
+page: 154
+first_line: емона дурматі, самса̄ра бгіторе
+---
+
 # Дайньятміка̄
 
 ### Шрīла Бгактівінод Тха̄кур
@@ -57,5 +62,3 @@ He saw me so fallen and wretched, took pity, and came to me saying, “O humbled
 
 O Lord, hearing those words, Bhakti Vinod has come weeping to the soles of Your lotus feet and tells the story of his life.
 
-
-> page = 154

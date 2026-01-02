@@ -1,3 +1,8 @@
+---
+page: 50
+first_line: шрī-кришна-чайтанья прабгу джīве дая корі’
+---
+
 # Благодатне звернення
 # до Шярана̄ґаті
 
@@ -71,5 +76,3 @@ Weeping, weeping, I implore thee,\
 Please teach me to surrender,\
 &nbsp;&nbsp;&nbsp;&nbsp;teach me pure devotion.’
 
-
-> page = 50

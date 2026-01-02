@@ -1,3 +1,8 @@
+---
+page: 113
+first_line: ніта̄і ґунамані а̄ма̄ра ніта̄і ґунамані
+---
+
 # Ніта̄і ґунамані а̄ма̄ра
 
 ### Шрīла Лочан Да̄с Тха̄кур
@@ -37,5 +42,3 @@ The ocean of mercy had formerly been tightly sealed, but Lord Nitāi cut a chann
 
 Lochan Dās says, “Whoever has not worshipped this Lord Nitāi, or accepted the great gift offered by Him, that person knowingly commits suicide.”
 
-
-> page = 113

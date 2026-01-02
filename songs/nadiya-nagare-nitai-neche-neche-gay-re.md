@@ -1,3 +1,8 @@
+---
+page: 230
+first_line: надīя-наґаре ніта̄і нече нече ґа̄й ре
+---
+
 # Шрīман Маха̄прабгур шята-на̄ма
 
 ### Шрīла Бгактівінод Тха̄кур
@@ -181,5 +186,3 @@ He delivered the Māyāvādī sannyāsīs of Kāśī, and He is the bestower of 
 
 In the towns and villages of Nadia, Lord Nityānanda dances ecstatically, singing these divine Names, and Ṭhākur Bhakti Vinod falls down at His reddish lotus feet.
 
-
-> page = 230

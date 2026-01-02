@@ -1,8 +1,13 @@
+---
+page: 189
+first_line: ґа̄іте ґа̄іте на̄ма кі дошя хоіло
+---
+
 # Шрī Шікша̄штакам
 
-### Шрīла Бгактівінод Тха̄кур
-
 ## Song 7a
+
+### Шрīла Бгактівінод Тха̄кур
 
 The seventh verse of the Śrī Śikṣāṣṭakam is as follows:
 
@@ -73,5 +78,3 @@ Oh residents of Vṛndāvan; save my life and show me Rādhānāth, the Lord of 
 
 I am unable to further tolerate this separation from my Lord Krishna and am ready to give up my life in two days or four.
 
-
-> page = 189

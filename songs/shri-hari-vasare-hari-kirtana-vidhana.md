@@ -1,3 +1,8 @@
+---
+page: 238
+first_line: шрī харі-ва̄саре харі-кīртана-відга̄на
+---
+
 # Шрī Харі-ва̄сара-ґīті
 
 ### Шрīла Вринда̄ван Да̄с Тха̄кур
@@ -92,5 +97,3 @@ Of all penances, the chanting of the Lord’s name is supreme and whoever sees t
 
 The two brothers, Śrī Krishna Chaitanya Mahāprabhu and Nityānanda Prabhu are my beloved masters and my life and soul. Thus Vṛndāvan dās sings this song of Their glorification and devotionally offers it at Their lotus feet.
 
-
-> page = 238

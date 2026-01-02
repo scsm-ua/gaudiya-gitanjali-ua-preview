@@ -1,3 +1,8 @@
+---
+page: 159
+first_line: харі харі! біпхоле джанама ґояіну
+---
+
 # Ішта-деве Віґʼяпті
 
 ### Шрīла Нароттам Да̄с Тха̄кур
@@ -37,5 +42,3 @@ Lord Krishna, who is the son of the King of Vraja, became the son of Śachī (Lo
 
 Oh Lord Krishna, son of Nanda, accompanied by the daughter of Vṛṣabhānu, please be merciful to me now. Narottam Dās says, “O Lord, please do not push me away from Your reddish lotus feet, for who is my beloved except for You?”
 
-
-> page = 159

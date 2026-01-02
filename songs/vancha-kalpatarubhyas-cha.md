@@ -1,3 +1,9 @@
+---
+page: 19
+first_line: ва̄ньчха̄-калпатарубгʼяс’ ча
+author: Шрīла Рӯпа Ґосва̄мī
+---
+
 # ва̄ньчха̄-калпатарубгʼяс’ ча
 
     ва̄ньчха̄-калпатарубгʼяс’ ча
@@ -21,5 +27,3 @@ I offer my obeisances unto Lord Krishna in His fivefold aspect known as the pañ
 
 I offer my obeisances unto Lord Gaurāṅga, whose divine complexion is a radiant golden hue and who possesses the qualities of the most benevolent incarnation. His spiritual Pastimes freely grant pure love for Lord Krishna to all. He is none other than Lord Krishna known in the age of Kali as Śrī Krishna Chaitanya.
 
-
-> page = 19

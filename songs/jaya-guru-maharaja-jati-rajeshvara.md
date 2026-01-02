@@ -1,3 +1,8 @@
+---
+page: 72
+first_line: джая ‘ґуру-маха̄ра̄джа’ джаті-ра̄джешвара
+---
+
 # Шрī Ґуру А̄раті-стуті
 
 ### Шрīла Бгакті Сундар Ґовінда Дев-Ґосва̄мī Маха̄ра̄дж
@@ -162,5 +167,3 @@ O personification of perfect conclusions\
 I sing this prayer at your *ārati*,\
 &nbsp;&nbsp;&nbsp;&nbsp;with joy — your humble servant.
 
-
-> page = 72

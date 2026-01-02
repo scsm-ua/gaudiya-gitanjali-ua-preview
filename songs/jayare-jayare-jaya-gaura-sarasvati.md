@@ -1,3 +1,8 @@
+---
+page: 66
+first_line: джаяре джаяре джая ґаура-сарасватī
+---
+
 # Шрī Са̄расват-а̄раті
 
 ### Шрīла Бгакті Ракшак Шрīдгар Дев-Ґосва̄мī Маха̄ра̄дж
@@ -95,5 +100,3 @@ Only by the mercy of Śrī Swarūp Dāmodar, Śrī Rāmananda Rāya, Śrī Rūpa
 
 All glories to Śrī Guru, Gaurāṅga, Rādhā-Govindasundar. O devotees, always sing Their eternal glories.
 
-
-> page = 66

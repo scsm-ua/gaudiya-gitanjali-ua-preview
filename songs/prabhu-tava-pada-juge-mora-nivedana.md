@@ -1,8 +1,13 @@
+---
+page: 186
+first_line: прабгу тава пада-джуґе мора ніведана
+---
+
 # Шрī Шікша̄штакам
 
-### Шрīла Бгактівінод Тха̄кур
-
 ## Song 4
+
+### Шрīла Бгактівінод Тха̄кур
 
 The fourth verse of the Śrī Śikṣāṣṭakam is as follows:
 
@@ -62,5 +67,3 @@ In danger or success, good fortune or disaster, let me remain equipoised. And le
 
 Whether I live as bird or beast, in heaven or in hell, let the humble Bhakti Vinod always cherish devotion to You in his heart of hearts.
 
-
-> page = 186

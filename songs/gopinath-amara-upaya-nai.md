@@ -1,8 +1,13 @@
+---
+page: 171
+first_line: ґопīна̄тх, а̄ма̄ра упа̄я на̄і
+---
+
 # Ніведана
 
-### Шрīла Бгактівінод Тха̄кур
-
 ## Part 3
+
+### Шрīла Бгактівінод Тха̄кур
 
 #### 1
 
@@ -68,5 +73,3 @@ Oh Gopīnāth, You are Hṛṣīkeśa, the Lord of the senses. Seeing me so help
 
 Oh Gopīnāth, the noose of materialism has become fixed around my neck. Taking up the sword of Your mercy and cutting this bondage, make this Bhakti Vinod Your humble servant.
 
-
-> page = 171

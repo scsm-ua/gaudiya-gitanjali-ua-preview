@@ -1,3 +1,8 @@
+---
+page: 26
+first_line: харі-на̄ма маха̄мантра сарва-мантра-са̄ра
+---
+
 # Дашя-відга На̄ма̄пара̄дга
 
 ## The Ten Offences to the Holy Name
@@ -130,5 +135,3 @@ Those pure souls who chant the Name in Holy Congregation —\
 The miracle of love for Krishna they will surely savour,\
 The Name Divine Himself will shine within their hearts forever.
 
-
-> page = 26

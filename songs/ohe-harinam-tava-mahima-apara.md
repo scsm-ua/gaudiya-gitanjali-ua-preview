@@ -1,3 +1,8 @@
+---
+page: 144
+first_line: охе харіна̄м, тава махіма̄ апа̄ра
+---
+
 # Шрī На̄ма̄штакам 7
 
 ### Шрīла Бгактівінод Тха̄кур
@@ -58,5 +63,3 @@ You are delightful and beautiful, the personification of complete cognizance and
 
 At the lotus feet of Śrīla Rūpa Goswāmī, Bhakti Vinod constantly begs at every moment for the direct revelation of the Holy Name.
 
-
-> page = 144

@@ -1,3 +1,8 @@
+---
+page: 114
+first_line: акродга парама̄нанда
+---
+
 # Акродга парама̄нанда
 
 ### Шрīла Лочан Да̄с Тха̄кур
@@ -37,5 +42,3 @@ Saying this Nityānanda falls to the ground, appearing like a golden mountain ro
 
 Where attachment for such an incarnation has not arisen, Lochan Dās says that such a sinful person comes and goes in the cycle of repeated birth and death.
 
-
-> page = 114

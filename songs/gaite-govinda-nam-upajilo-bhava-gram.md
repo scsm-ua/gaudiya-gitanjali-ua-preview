@@ -1,8 +1,13 @@
+---
+page: 190
+first_line: ґа̄іте ‘ґовінда’-на̄м, упаджіло бга̄ва-ґра̄м
+---
+
 # Шрī Шікша̄штакам
 
-### Шрīла Бгактівінод Тха̄кур
-
 ## Song 7b
+
+### Шрīла Бгактівінод Тха̄кур
 
 #### 1
 
@@ -22,5 +27,3 @@ And while I sang the name of Govinda a host of ecstasies arose within me. I saw 
 
 On seeing this, my mind was stunned. I lost my senses. Unaware of time, I fainted. When I awoke after immeasurable time, the treasured couple had gone. My vision of Vraja had broken.
 
-
-> page = 190

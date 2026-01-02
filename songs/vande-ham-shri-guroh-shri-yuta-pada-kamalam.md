@@ -1,9 +1,15 @@
+---
+page: 11
+first_line: ванде ’хам шрī-ґурох шрī-юта-пада-камалам
+author: Шрīла Кришнада̄с Кавіра̄дж Ґосва̄мī
+---
+
 # Вандана̄
 
     ванде ’хам шрī-ґурох шрī-юта-пада-камалам
         шрī-ґурӯн вайшнава̄мш ча
     шрī-рӯпам са̄ґраджа̄там саха-ґана-
-        рагуна̄тха̄нвітам там са-джīвам 
+        рагуна̄тха̄нвітам там са-джīвам
     са̄двайтам са̄вадгӯтам паріджана-сахітам
         кришна-чайтанья-девам
     шрī-ра̄дга̄-кришна-па̄да̄н саха-ґана-лаліта̄-шрī-
@@ -16,5 +22,3 @@
 
 Applying the soothing salve of sambandha-jñāna, a proper acquaintance with the environment, my spiritual master has opened my inner eye and thereby rescued me from the darkness of ignorance, fulfilling my life’s aspirations. I offer my respects unto Śrī Gurudeva.
 
-
-> page = 11

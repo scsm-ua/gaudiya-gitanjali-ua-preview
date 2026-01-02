@@ -1,3 +1,8 @@
+---
+page: 234
+first_line: наґаре наґаре ґора̄ ґа̄й
+---
+
 # Шрī Кришнера
 # Вімсоттара-шята-на̄ма
 
@@ -182,5 +187,3 @@ Lord Krishna is the purifier of the fallen souls, the Lord of the universe, the 
 
 Lord Chaitanya sings these names of Krishna from village to village, and Ṭhākur Bhakti Vinod falls at His lotus feet.
 
-
-> page = 234
