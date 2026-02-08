@@ -57,7 +57,7 @@ The chief disciple of Mādhavendra Purī was Īśvara Purī, and two of his othe
     маха̄прабгу шрī-чайтанья,    ра̄дга̄-кришна нахе анья,
         рӯпа̄нуґа джонера джīвана
     вішвамбгара пріянкара,    шрī сварӯпа-да̄модара,
-        срī ґосва̄мī рӯпа-сана̄тана
+        шрī ґосва̄мī рӯпа-сана̄тана
 
 Mahāprabhu Śrī Chaitanya is nondifferent from Śrī Śrī Rādhā and Krishna and is the very life of those Vaiṣṇavas who follow Śrī Rūpa Goswāmī. Śrī Swarūp Dāmodar Goswāmī, Rūpa Goswāmī and Sanātan Goswāmī were the givers of great happiness to Viśvambhara [Śrī Chaitanya].
 
